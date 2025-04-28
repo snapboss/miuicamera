@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="im6" parent="@style/ikw">
+        <item name="android:textSize">@dimen/cyf</item>
+        <item name="android:textColor">?h_</item>
+        <item name="android:fontFamily">@string/gu1</item>
+        <item name="android:fallbackLineSpacing">true</item>
+    </style>
+    <style name="j3p" parent="@style/j2y">
+        <item name="android:textAppearance">@style/ilw</item>
+        <item name="android:textSize">@dimen/cxg</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center|top</item>
+        <item name="android:scrollbars">none</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">0.0dip</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:singleLine">false</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+        <item name="android:hyphenationFrequency">fullFast</item>
+    </style>
+</resources>

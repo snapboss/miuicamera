@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bmk">5.0dip</dimen>
+    <dimen name="dhd">86.0dip</dimen>
+    <dimen name="dhh">65.0dip</dimen>
+    <dimen name="dhj">112.0dip</dimen>
+    <dimen name="dhl">82.0dip</dimen>
+    <dimen name="dhm">95.0dip</dimen>
+    <dimen name="dje">1034.0dip</dimen>
+    <dimen name="djj">44.0dip</dimen>
+</resources>

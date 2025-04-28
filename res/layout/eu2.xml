@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/description_back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/bmj" android:src="@drawable/ic_description_back" android:contentDescription="@string/gnr" android:layout_marginHorizontal="@dimen/bmp" />
+    <TextView android:textSize="@dimen/bms" android:textColor="@color/white" android:id="@id/g5s" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/bmr" android:layout_marginBottom="@dimen/bmq" android:layout_marginHorizontal="@dimen/bmp" />
+    <com.android.camera.description.ScrollableFilterSortView2 android:id="@id/description_filter_sort_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginHorizontal="@dimen/bmp" />
+    <androidx.viewpager2.widget.ViewPager2 android:id="@id/view_pager2" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

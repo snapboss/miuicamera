@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/detail_layout" android:background="@drawable/makeup_item_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginHorizontal="@dimen/cpk" android:forceDarkAllowed="false">
+        <FrameLayout android:orientation="horizontal" android:background="@drawable/workspace_detail_title_bg" android:layout_width="fill_parent" android:layout_height="@dimen/dy3">
+            <com.android.camera.ui.ScrollTextview android:textSize="@dimen/dy4" android:textColor="@color/white" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/dialog_input_area" android:layout_width="@dimen/dy5" android:layout_height="fill_parent" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" android:textDirection="locale" android:layout_marginStart="@dimen/ebp" />
+            <LinearLayout android:layout_gravity="end|center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="2.0dip">
+                <ImageView android:gravity="center" android:id="@id/style_item_menu_rename_layout" android:layout_width="@dimen/dy_" android:layout_height="@dimen/dy_" android:src="@drawable/ic_style_rename" android:scaleType="centerInside" android:contentDescription="@string/i8b" />
+                <ImageView android:gravity="center" android:id="@id/style_item_menu_share_layout" android:layout_width="@dimen/dy_" android:layout_height="@dimen/dy_" android:src="@drawable/ic_style_share" android:scaleType="centerInside" android:contentDescription="@string/htn" />
+                <ImageView android:gravity="center" android:id="@id/style_item_menu_delete_layout" android:layout_width="@dimen/dy_" android:layout_height="@dimen/dy_" android:src="@drawable/ic_style_delete" android:scaleType="centerInside" android:contentDescription="@string/i8a" />
+                <ImageView android:gravity="center" android:id="@id/style_item_menu_close_layout" android:layout_width="@dimen/dy_" android:layout_height="@dimen/dy_" android:src="@drawable/ic_style_close" android:scaleType="centerInside" android:contentDescription="@string/fy9" />
+            </LinearLayout>
+        </FrameLayout>
+        <miuix.recyclerview.widget.RecyclerView android:id="@id/workspace_parameters_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:alpha="0.7" android:nestedScrollingEnabled="false" />
+    </LinearLayout>
+</ScrollView>

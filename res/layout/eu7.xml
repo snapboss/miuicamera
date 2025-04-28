@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/portrait_use_hint_layout" android:background="@color/black" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@id/portrait_use_drawable_layout" android:paddingTop="@dimen/doo" android:layout_width="wrap_content" android:layout_height="@dimen/c40">
+            <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/portrait_use_1" />
+                <TextView android:textSize="@dimen/dop" android:textColor="@color/white" android:layout_gravity="bottom|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/don" android:text="@string/fn9" />
+            </FrameLayout>
+            <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/don">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/portrait_use_2" />
+                <TextView android:textSize="@dimen/dop" android:textColor="@color/white" android:layout_gravity="bottom|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/don" android:text="@string/fna" />
+            </FrameLayout>
+            <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/don">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/portrait_use_3" />
+                <TextView android:textSize="@dimen/dop" android:textColor="@color/white" android:layout_gravity="bottom|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/don" android:text="@string/fnc" />
+            </FrameLayout>
+            <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/don">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/portrait_use_4" />
+                <TextView android:textSize="@dimen/dop" android:textColor="@color/white" android:layout_gravity="bottom|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/don" android:text="@string/fne" />
+            </FrameLayout>
+        </LinearLayout>
+        <TextView android:textSize="@dimen/c4z" android:textColor="@android:color/white" android:gravity="center" android:layout_gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/c4y" android:text="@string/fn8" />
+        <TextView android:textSize="@dimen/c3y" android:textColor="@color/id_card_body_text_color" android:gravity="center" android:layout_gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/c3x" android:text="@string/fnn" android:lineSpacingExtra="@dimen/c3w" />
+    </LinearLayout>
+</FrameLayout>

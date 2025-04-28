@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f95">
+        <item quantity="other">%d सेकंद फास्ट फॉरवर्ड करा</item>
+        <item quantity="one">%d सेकंद फास्ट फॉरवर्ड करा</item>
+    </plurals>
+    <plurals name="f96">
+        <item quantity="other">%d सेकंद रिवाइंड करा</item>
+        <item quantity="one">%d सेकंद रिवाइंड करा</item>
+    </plurals>
+    <plurals name="f9j">
+        <item quantity="other">%d नवीन सूचना</item>
+        <item quantity="one">%d नवीन सूचना</item>
+    </plurals>
+</resources>

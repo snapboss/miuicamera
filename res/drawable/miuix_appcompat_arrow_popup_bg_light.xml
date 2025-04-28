@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:paddingTop="@dimen/cob" android:paddingBottom="@dimen/co9" android:paddingStart="@dimen/coa" android:paddingEnd="@dimen/co_"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen/coa" android:top="@dimen/cob" android:right="@dimen/co_" android:bottom="@dimen/co9">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/miuix_appcompat_arrow_popup_triangle_color_light" />
+            <corners android:radius="@dimen/coc" />
+        </shape>
+    </item>
+</layer-list>

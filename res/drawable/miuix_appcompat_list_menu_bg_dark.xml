@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/miuix_appcompat_list_menu_bg_color_dark" />
+    <corners android:topLeftRadius="@dimen/cu3" android:topRightRadius="@dimen/cu3" />
+    <padding android:top="@dimen/cu2" android:bottom="@dimen/cu2" />
+</shape>

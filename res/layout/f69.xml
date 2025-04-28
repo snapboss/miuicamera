@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/rotate_layout" android:padding="@dimen/egv" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:id="@id/date_ll" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/egx" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/date_hour_min" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:includeFontPadding="false" android:shadowColor="@color/watermark_punch_in_text_shadow" android:shadowDy="2.0" android:shadowRadius="4.0" android:fontFamily="misans-normal" android:textFontWeight="500" />
+            <androidx.cardview.widget.CardView android:layout_gravity="center_vertical" android:id="@id/divide_punch_in" android:layout_width="@dimen/egr" android:layout_height="@dimen/egp" android:layout_marginStart="@dimen/b1g" app:mt="@color/white" app:mw="@dimen/egq" app:mx="@dimen/ego" />
+            <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/date_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/b1t">
+                <TextView android:textSize="@dimen/egw" android:textColor="@color/white" android:ellipsize="end" android:id="@id/date_day" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:shadowColor="@color/watermark_punch_in_text_shadow" android:shadowDy="2.0" android:shadowRadius="4.0" android:fontFamily="misans-normal" android:textFontWeight="500" />
+                <TextView android:textSize="@dimen/egw" android:textColor="@color/white" android:ellipsize="end" android:id="@id/date_week" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/egz" android:maxLines="1" android:singleLine="true" android:shadowColor="@color/watermark_punch_in_text_shadow" android:shadowDy="2.0" android:shadowRadius="4.0" android:fontFamily="misans-normal" android:textFontWeight="500" />
+            </LinearLayout>
+        </LinearLayout>
+        <TextView android:textSize="@dimen/egy" android:textColor="@color/white" android:id="@id/location_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/egs" android:maxWidth="@dimen/egt" android:maxLines="4" android:includeFontPadding="false" android:shadowColor="@color/watermark_punch_in_text_shadow" android:shadowDy="2.0" android:shadowRadius="4.0" android:fontFamily="misans-normal" android:textFontWeight="500" />
+    </LinearLayout>
+</LinearLayout>

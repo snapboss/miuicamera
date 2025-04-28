@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/f6r" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/rl_top_navigation_layout" android:layout_width="wrap_content" android:layout_height="@dimen/efs" android:layout_marginTop="@dimen/efr" android:layout_marginStart="@dimen/efq">
+        <ImageView android:gravity="center" android:id="@id/rl_watermark_back" android:layout_width="@dimen/efs" android:layout_height="@dimen/efs" android:src="@drawable/ic_vector_reference_line_back" android:contentDescription="@string/gnr" android:layout_alignParentStart="true" />
+        <com.android.camera.ui.AdaptiveTextView android:textSize="@dimen/efz" android:textColor="@color/white" android:ellipsize="marquee" android:gravity="center" android:layout_gravity="center" android:id="@id/rl_watermark_title" android:focusableInTouchMode="true" android:layout_width="@dimen/eg0" android:layout_height="fill_parent" android:text="@string/hrb" android:scrollHorizontally="true" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" android:contentDescription="@string/hrb" android:layout_marginStart="@dimen/efq" android:layout_toEndOf="@id/rl_watermark_back" android:contextClickable="true" app:aad="1.0" />
+    </RelativeLayout>
+    <androidx.recyclerview.widget.RecyclerView android:layout_gravity="center_horizontal" android:id="@id/config_extra_watermark_recyclerview" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/efw" android:overScrollMode="never" />
+    <include android:id="@id/layout_watermark_switch_close" android:visibility="gone" layout="@layout/eqh" />
+    <include android:id="@id/layout_watermark_switch_standard" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/efv" android:layout_marginStart="@dimen/e34" android:layout_marginEnd="@dimen/efu" layout="@layout/eqk" />
+    <include android:id="@id/layout_watermark_switch_leica" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/efv" android:layout_marginStart="@dimen/e34" android:layout_marginEnd="@dimen/efu" layout="@layout/eqi" />
+    <include android:id="@id/layout_watermark_switch_westcoast" android:visibility="gone" layout="@layout/eqm" />
+</LinearLayout>

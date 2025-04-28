@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f95">
+        <item quantity="other">Keri %d sekundit edasi</item>
+        <item quantity="one">Keri %d sekund edasi</item>
+    </plurals>
+    <plurals name="f96">
+        <item quantity="other">Keri %d sekundit tagasi</item>
+        <item quantity="one">Keri %d sekund tagasi</item>
+    </plurals>
+    <plurals name="f9j">
+        <item quantity="other">%d uut märguannet</item>
+        <item quantity="one">%d uus märguanne</item>
+    </plurals>
+</resources>

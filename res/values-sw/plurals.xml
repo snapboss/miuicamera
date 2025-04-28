@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f8j">
+        <item quantity="other">Saa 1 iliyopita</item>
+        <item quantity="one">Saa 1 iliyopita</item>
+    </plurals>
+    <plurals name="f8k">
+        <item quantity="other">saa %d iliyopita</item>
+        <item quantity="one">saa %d iliyopita</item>
+    </plurals>
+    <plurals name="f8l">
+        <item quantity="other">Nusu saa iliyopita</item>
+        <item quantity="one">Nusu saa iliyopita</item>
+    </plurals>
+    <plurals name="f8m">
+        <item quantity="other">Baada ya saa %d</item>
+        <item quantity="one">Baada ya saa %d</item>
+    </plurals>
+    <plurals name="f8n">
+        <item quantity="other">Katika nusu saa ijayo</item>
+        <item quantity="one">Katika nusu saa ijayo</item>
+    </plurals>
+    <plurals name="f8o">
+        <item quantity="other">Mara moja</item>
+        <item quantity="one">Mara moja</item>
+    </plurals>
+    <plurals name="f8p">
+        <item quantity="other">Baada ya dakika %d</item>
+        <item quantity="one">Baada ya dakika %d</item>
+    </plurals>
+    <plurals name="f8q">
+        <item quantity="other">Sasa hivi</item>
+        <item quantity="one">Sasa hivi</item>
+    </plurals>
+    <plurals name="f8r">
+        <item quantity="other">Dakika %d zilizopita</item>
+        <item quantity="one">Dakika %d iliyopita</item>
+    </plurals>
+    <plurals name="f8s">
+        <item quantity="other">Kipima muda cha sekunde %d cha Hali ya usiku</item>
+        <item quantity="one">Kipima muda cha sekunde %d cha Hali ya usiku</item>
+    </plurals>
+    <plurals name="f8t">
+        <item quantity="other">Imezingatia. Nyuso %d zimetambuliwa</item>
+        <item quantity="one">Imezingatia. Uso %d umetambuliwa</item>
+    </plurals>
+    <plurals name="f8u">
+        <item quantity="other">Picha %d zilipigwa kwa picha ya mfululizo</item>
+        <item quantity="one">Picha %d ilipigwa kwa picha ya mfululizo</item>
+    </plurals>
+    <plurals name="f8v">
+        <item quantity="other">Kipindi cha muda: sekunde %d</item>
+        <item quantity="one">Kipindi cha muda: sekunde %d</item>
+    </plurals>
+    <plurals name="f8w">
+        <item quantity="other">Muda: sekunde %d</item>
+        <item quantity="one">Muda: sekunde %d</item>
+    </plurals>
+    <plurals name="f8x">
+        <item quantity="other">Weka herufi %d.</item>
+        <item quantity="one">Weka herufi %d.</item>
+    </plurals>
+    <plurals name="f8y">
+        <item quantity="other">Weka hadi herufi %d.</item>
+        <item quantity="one">Weka hadi herufi %d.</item>
+    </plurals>
+    <plurals name="f8z">
+        <item quantity="other">Unaweza kuunganisha hadi kamera %d kwenye mtandao uleule</item>
+        <item quantity="one">Unaweza kuunganisha hadi kamera %d kwenye mtandao uleule</item>
+    </plurals>
+    <plurals name="f90">
+        <item quantity="other">Unaweza kuunganisha hadi monita %d kwenye mtandao uleule</item>
+        <item quantity="one">Unaweza kuunganisha hadi monita %d kwenye mtandao uleule</item>
+    </plurals>
+    <plurals name="f91">
+        <item quantity="other">Unaweza kuunda hadi pachisho %d kwa wakati mmoja.</item>
+        <item quantity="one">Unaweza kuunda hadi pachisho %d kwa wakati mmoja.</item>
+    </plurals>
+    <plurals name="f92">
+        <item quantity="other">&lt;Data>Haiwezi kuunganisha kwenye kamera.&lt;br>Programu hii itafungwa ndani ya sekunde&lt;font color=#FFCE16>&lt;b>%1$d&lt;/b>&lt;/font>. Baada ya muda huo, subiri dakika moja au mbili na ujaribu tena.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Haiwezi kuunganisha kwenye kamera.&lt;br>Programu hii itafungwa ndani ya sekunde &lt;font color=#FFCE16>&lt;b>%1$d&lt;/b>&lt;/font>. Baada ya muda huo, subiri dakika moja au mbili na ujaribu tena.&lt;/Data></item>
+    </plurals>
+    <plurals name="f93">
+        <item quantity="other">&lt;Data>Kifaa hiki kina joto sana sasa.&lt;br>Programu itafungwa katika &lt;font color=#FFCE16>&lt;b>%1$d sekunde&lt;/b>&lt;/font>. Hatua ya sasa ilihifadhiwa kiotomatiki.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Kifaa hiki kina joto sana sasa.&lt;br>Programu itafungwa katika &lt;font color=#FFCE16>&lt;b>%1$d sekunde&lt;/b>&lt;/font>. Hatua ya sasa ilihifadhiwa kiotomatiki.&lt;/Data></item>
+    </plurals>
+    <plurals name="f94">
+        <item quantity="other">&lt;Data>Toleo la kamera unalotumia halitangamani na modeli ya kifaa chako.&lt;br>Programu itafunga ndani ya &lt;font color=#FFCE16>&lt;b> sekunde %1$d&lt;/b>&lt;/font>. Sanidua visasisho vya Kamera na ujaribu tena.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Toleo la kamera unalotumia halitangamani na modeli ya kifaa chako.&lt;br>Programu itafunga ndani ya &lt;font color=#FFCE16>&lt;b> sekunde %1$d&lt;/b>&lt;/font>. Sanidua visasisho vya Kamera na ujaribu tena.&lt;/Data></item>
+    </plurals>
+    <plurals name="f95">
+        <item quantity="other">Sogeza mbele haraka kwa sekunde %d</item>
+        <item quantity="one">Sogeza mbele haraka kwa sekunde %d</item>
+    </plurals>
+    <plurals name="f96">
+        <item quantity="other">Rudisha nyuma kwa sekunde %d</item>
+        <item quantity="one">Rudisha nyuma kwa sekunde %d</item>
+    </plurals>
+    <plurals name="f97">
+        <item quantity="other">dakika %1$d</item>
+        <item quantity="one">dakika %1$d</item>
+    </plurals>
+    <plurals name="f98">
+        <item quantity="other">sekunde %1$d</item>
+        <item quantity="one">sekunde %1$d</item>
+    </plurals>
+    <plurals name="f99">
+        <item quantity="other">Imewasha kipima muda (sekunde %1$d sec). Picha zitahamishwa kwenye kifaa hiki.</item>
+        <item quantity="one">Imewasha kipima muda (sekunde %1$d sec). Picha zitahamishwa kwenye kifaa hiki.</item>
+    </plurals>
+    <plurals name="f9_">
+        <item quantity="other">Nusu saa iliyopita</item>
+        <item quantity="one">Nusu saa iliyopita</item>
+    </plurals>
+    <plurals name="f9a">
+        <item quantity="other">Katika saa 1 Ijayo</item>
+        <item quantity="one">Katika saa 1 Ijayo</item>
+    </plurals>
+    <plurals name="f9b">
+        <item quantity="other">Katika nusu saa ijayo</item>
+        <item quantity="one">Katika nusu saa ijayo</item>
+    </plurals>
+    <plurals name="f9c">
+        <item quantity="other">Mara moja</item>
+        <item quantity="one">Mara moja</item>
+    </plurals>
+    <plurals name="f9d">
+        <item quantity="other">katika dakika %d</item>
+        <item quantity="one">katika dakika 1</item>
+    </plurals>
+    <plurals name="f9e">
+        <item quantity="other">Sasa hivi</item>
+        <item quantity="one">Sasa hivi</item>
+    </plurals>
+    <plurals name="f9f">
+        <item quantity="other">Ungependa kufuta mwandiko %1$d?</item>
+        <item quantity="one">Ungependa kufuta mwandiko%1$d?</item>
+    </plurals>
+    <plurals name="f9g">
+        <item quantity="other">Ongeza hadi mipangilio %d iliyowekwa mapema</item>
+        <item quantity="one">Ongeza hadi mpangilio %d uliowekwa mapema</item>
+    </plurals>
+    <plurals name="f9h">
+        <item quantity="other">Vipengee %d vimechaguliwa</item>
+        <item quantity="one">Kipengee %d kimechaguliwa</item>
+    </plurals>
+    <plurals name="f9j">
+        <item quantity="other">Arifa %d mpya</item>
+        <item quantity="one">Arifa %d mpya</item>
+    </plurals>
+    <plurals name="f9k">
+        <item quantity="other">dakika %d zilizopita</item>
+        <item quantity="one">Dakika 1 iliyopita</item>
+    </plurals>
+    <plurals name="f9l">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
+    </plurals>
+    <plurals name="f9m">
+        <item quantity="other">Dakika %1$s</item>
+        <item quantity="one">Dakika %1$s</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">Rekodi sekunde %d</item>
+        <item quantity="one">Rekodi sekunde %d</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">Unaweza kuchukua video za kusimamisha muda na hadi mada %d.</item>
+        <item quantity="one">Unaweza kuchukua video za kusimamisha muda pekee na mada ya %d .</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">Picha %1$s</item>
+        <item quantity="one">Picha %1$s</item>
+    </plurals>
+</resources>

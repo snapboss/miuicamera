@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f95">
+        <item quantity="other">%d வினாடிகள் ஃபாஸ்ட் ஃபார்வர்ட் ஆகும்</item>
+        <item quantity="one">%d வினாடி ஃபாஸ்ட் ஃபார்வர்ட் ஆகும்</item>
+    </plurals>
+    <plurals name="f96">
+        <item quantity="other">%d வினாடிகள் ரீவைண்ட் ஆகும்</item>
+        <item quantity="one">%d வினாடி ரீவைண்ட் ஆகும்</item>
+    </plurals>
+    <plurals name="f9j">
+        <item quantity="other">%d புதிய அறிவிப்புகள்</item>
+        <item quantity="one">%d புதிய அறிவிப்பு</item>
+    </plurals>
+</resources>

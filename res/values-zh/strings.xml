@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="i_j">%1$sB</string>
+    <string name="i_k">连接下载管理器失败，请在应用管理中检查下载管理器的状态</string>
+    <string name="i_l">"推荐您立即升级到最新的%1$s版
+大小: %2$s"</string>
+    <string name="i_m">"推荐您立即升级到最新的%1$s版
+增量更新只需下载: %2$s"</string>
+    <string name="i_n">%1$s新版本</string>
+    <string name="i_o">存储分区不可用，请检查SD卡</string>
+    <string name="i_p">%1$sKB</string>
+    <string name="i_q">%1$sMB</string>
+    <string name="i_r">以后再说</string>
+    <string name="i_s">立即更新</string>
+</resources>

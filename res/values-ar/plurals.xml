@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f8j">
+        <item quantity="other">منذ ساعة واحدة</item>
+        <item quantity="zero">منذ ساعة واحدة</item>
+        <item quantity="one">منذ ساعة واحدة</item>
+        <item quantity="two">منذ ساعة واحدة</item>
+        <item quantity="few">منذ ساعة واحدة</item>
+        <item quantity="many">منذ ساعة واحدة</item>
+    </plurals>
+    <plurals name="f8k">
+        <item quantity="other">قبل %d ساعة</item>
+        <item quantity="zero">قبل %d ساعة</item>
+        <item quantity="one">قبل %d ساعة</item>
+        <item quantity="two">قبل %d ساعات</item>
+        <item quantity="few">قبل %d ساعات</item>
+        <item quantity="many">قبل %d ساعة</item>
+    </plurals>
+    <plurals name="f8l">
+        <item quantity="other">منذ نصف ساعة</item>
+        <item quantity="zero">منذ نصف ساعة</item>
+        <item quantity="one">منذ نصف ساعة</item>
+        <item quantity="two">منذ نصف ساعة</item>
+        <item quantity="few">منذ نصف ساعة</item>
+        <item quantity="many">منذ نصف ساعة</item>
+    </plurals>
+    <plurals name="f8m">
+        <item quantity="other">بعد %d ساعة</item>
+        <item quantity="zero">بعد %d ساعة</item>
+        <item quantity="one">بعد %d ساعة</item>
+        <item quantity="two">بعد %d ساعات</item>
+        <item quantity="few">بعد %d ساعات</item>
+        <item quantity="many">بعد %d ساعة</item>
+    </plurals>
+    <plurals name="f8n">
+        <item quantity="other">في نصف ساعة</item>
+        <item quantity="zero">في نصف ساعة</item>
+        <item quantity="one">في نصف ساعة</item>
+        <item quantity="two">في نصف ساعة</item>
+        <item quantity="few">في نصف ساعة</item>
+        <item quantity="many">في نصف ساعة</item>
+    </plurals>
+    <plurals name="f8o">
+        <item quantity="other">فوراً</item>
+        <item quantity="zero">فوراً</item>
+        <item quantity="one">فوراً</item>
+        <item quantity="two">فوراً</item>
+        <item quantity="few">فوراً</item>
+        <item quantity="many">فوراً</item>
+    </plurals>
+    <plurals name="f8p">
+        <item quantity="other">بعد %d دق</item>
+        <item quantity="zero">بعد %d دق</item>
+        <item quantity="one">بعد %d دق</item>
+        <item quantity="two">بعد %d دق</item>
+        <item quantity="few">بعد %d دق</item>
+        <item quantity="many">بعد %d دق</item>
+    </plurals>
+    <plurals name="f8q">
+        <item quantity="other">الآن</item>
+        <item quantity="zero">الآن</item>
+        <item quantity="one">الآن</item>
+        <item quantity="two">الآن</item>
+        <item quantity="few">الآن</item>
+        <item quantity="many">الآن</item>
+    </plurals>
+    <plurals name="f8r">
+        <item quantity="other">قبل %d دقيقة</item>
+        <item quantity="zero">قبل %d دقيقة</item>
+        <item quantity="one">قبل %d دقيقة</item>
+        <item quantity="two">قبل %d دقائق</item>
+        <item quantity="few">قبل %d دقائق</item>
+        <item quantity="many">قبل %d دقيقة</item>
+    </plurals>
+    <plurals name="f8s">
+        <item quantity="other">الوضع الليلي مؤقت لمدة %d ثانية</item>
+        <item quantity="zero">الوضع الليلي مؤقت لمدة %d ثانية</item>
+        <item quantity="one">الوضع الليلي مؤقت لمدة %d ثانية</item>
+        <item quantity="two">الوضع الليلي مؤقت لمدة %d ثواني</item>
+        <item quantity="few">الوضع الليلي مؤقت لمدة %d ثواني</item>
+        <item quantity="many">الوضع الليلي مؤقت لمدة %d ثانية</item>
+    </plurals>
+    <plurals name="f8t">
+        <item quantity="other">تم التركيز البؤري. تم اكتشاف %d وجه</item>
+        <item quantity="zero">تم التركيز البؤري. تم اكتشاف %d وجه</item>
+        <item quantity="one">تم التركيز البؤري. تم اكتشاف %d وجه</item>
+        <item quantity="two">تم التركيز البؤري. تم اكتشاف %d وجوه</item>
+        <item quantity="few">تم التركيز البؤري. تم اكتشاف %d وجوه</item>
+        <item quantity="many">تم التركيز البؤري. تم اكتشاف %d وجه</item>
+    </plurals>
+    <plurals name="f8u">
+        <item quantity="other">%d صور متتالية</item>
+        <item quantity="zero">%d صور متتالية</item>
+        <item quantity="one">%d صورة متتالية</item>
+        <item quantity="two">%d صور متتالية</item>
+        <item quantity="few">%d صور متتالية</item>
+        <item quantity="many">%d صور متتالية</item>
+    </plurals>
+    <plurals name="f8v">
+        <item quantity="other">الفاصل الزمني: %d ثواني</item>
+        <item quantity="zero">الفاصل الزمني: %d ثواني</item>
+        <item quantity="one">الفاصل الزمني: %d ثانية</item>
+        <item quantity="two">الفاصل الزمني: %d ثواني</item>
+        <item quantity="few">الفاصل الزمني: %d ثواني</item>
+        <item quantity="many">الفاصل الزمني: %d ثواني</item>
+    </plurals>
+    <plurals name="f8w">
+        <item quantity="other">المدة: %d ثانية</item>
+        <item quantity="zero">المدة: %d ثانية</item>
+        <item quantity="one">المدة: %d ثانية</item>
+        <item quantity="two">المدة: %d ثواني</item>
+        <item quantity="few">المدة: %d ثواني</item>
+        <item quantity="many">المدة: %d ثانية</item>
+    </plurals>
+    <plurals name="f8x">
+        <item quantity="other">تم إدخال %d حرف.</item>
+        <item quantity="zero">تم إدخال %d حرف.</item>
+        <item quantity="one">تم إدخال %d حرف.</item>
+        <item quantity="two">تم إدخال %d أحرف.</item>
+        <item quantity="few">تم إدخال %d أحرف.</item>
+        <item quantity="many">تم إدخال %d حرف.</item>
+    </plurals>
+    <plurals name="f8y">
+        <item quantity="other">أدخل ما يصل إلى %d حرف.</item>
+        <item quantity="zero">أدخل ما يصل إلى %d حرف.</item>
+        <item quantity="one">أدخل ما يصل إلى %d حرف.</item>
+        <item quantity="two">أدخل ما يصل إلى %d أحرف.</item>
+        <item quantity="few">أدخل ما يصل إلى %d أحرف.</item>
+        <item quantity="many">أدخل ما يصل إلى %d حرف.</item>
+    </plurals>
+    <plurals name="f8z">
+        <item quantity="other">يمكنك توصيل ما يصل إلى %d كاميرات بنفس الشبكة</item>
+        <item quantity="zero">يمكنك توصيل ما يصل إلى %d كاميرات بنفس الشبكة</item>
+        <item quantity="one">يمكنك توصيل ما يصل إلى %d كاميرا بنفس الشبكة</item>
+        <item quantity="two">يمكنك توصيل ما يصل إلى %d كاميرات بنفس الشبكة</item>
+        <item quantity="few">يمكنك توصيل ما يصل إلى %d كاميرات بنفس الشبكة</item>
+        <item quantity="many">يمكنك توصيل ما يصل إلى %d كاميرات بنفس الشبكة</item>
+    </plurals>
+    <plurals name="f90">
+        <item quantity="other">يمكنك توصيل ما يصل إلى %d شاشات بنفس الشبكة</item>
+        <item quantity="zero">يمكنك توصيل ما يصل إلى %d شاشات بنفس الشبكة</item>
+        <item quantity="one">يمكنك توصيل ما يصل إلى %d شاشة بنفس الشبكة</item>
+        <item quantity="two">يمكنك توصيل ما يصل إلى %d شاشات بنفس الشبكة</item>
+        <item quantity="few">يمكنك توصيل ما يصل إلى %d شاشات بنفس الشبكة</item>
+        <item quantity="many">يمكنك توصيل ما يصل إلى %d شاشات بنفس الشبكة</item>
+    </plurals>
+    <plurals name="f91">
+        <item quantity="other">يمكنك إنشاء ما يصل إلى %d نسخة في المرة الواحدة.</item>
+        <item quantity="zero">يمكنك إنشاء ما يصل إلى %d نسخة في المرة الواحدة.</item>
+        <item quantity="one">يمكنك إنشاء ما يصل إلى %d نسخة في المرة الواحدة.</item>
+        <item quantity="two">يمكنك إنشاء ما يصل إلى %d نسخ في المرة الواحدة.</item>
+        <item quantity="few">يمكنك إنشاء ما يصل إلى %d نسخ في المرة الواحدة.</item>
+        <item quantity="many">يمكنك إنشاء ما يصل إلى %d نسخة في المرة الواحدة.</item>
+    </plurals>
+    <plurals name="f92">
+        <item quantity="other">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
+        <item quantity="zero">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
+        <item quantity="one">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
+        <item quantity="two">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثواني&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
+        <item quantity="few">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثواني&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
+        <item quantity="many">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
+    </plurals>
+    <plurals name="f93">
+        <item quantity="other">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
+        <item quantity="zero">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
+        <item quantity="one">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
+        <item quantity="two">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثواني&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
+        <item quantity="few">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثواني&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
+        <item quantity="many">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
+    </plurals>
+    <plurals name="f94">
+        <item quantity="other">&lt;Data>إصدار الكاميرا الذي تستخدمه غير متوافق مع طراز جهازك.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. قم بإلغاء تثبيت تحديثات الكاميرا ثم حاول مجددا.&lt;/Data></item>
+        <item quantity="zero">&lt;Data>إصدار الكاميرا الذي تستخدمه غير متوافق مع طراز جهازك.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. قم بإلغاء تثبيت تحديثات الكاميرا ثم حاول مجددا.&lt;/Data></item>
+        <item quantity="one">&lt;Data>إصدار الكاميرا الذي تستخدمه غير متوافق مع طراز جهازك.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. قم بإلغاء تثبيت تحديثات الكاميرا ثم حاول مجددا.&lt;/Data></item>
+        <item quantity="two">&lt;Data>إصدار الكاميرا الذي تستخدمه غير متوافق مع طراز جهازك.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثواني&lt;/b>&lt;/font>. قم بإلغاء تثبيت تحديثات الكاميرا ثم حاول مجددا.&lt;/Data></item>
+        <item quantity="few">&lt;Data>إصدار الكاميرا الذي تستخدمه غير متوافق مع طراز جهازك.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثواني&lt;/b>&lt;/font>. قم بإلغاء تثبيت تحديثات الكاميرا ثم حاول مجددا.&lt;/Data></item>
+        <item quantity="many">&lt;Data>إصدار الكاميرا الذي تستخدمه غير متوافق مع طراز جهازك.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. قم بإلغاء تثبيت تحديثات الكاميرا ثم حاول مجددا.&lt;/Data></item>
+    </plurals>
+    <plurals name="f95">
+        <item quantity="other">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="one">تقديم سريع للفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">تقديم سريع للفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">تقديم سريع للفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">تقديم سريع للفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="f96">
+        <item quantity="other">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="one">ترجيع الفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">ترجيع الفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">ترجيع الفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">ترجيع الفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="f97">
+        <item quantity="other">%1$d دقيقة</item>
+        <item quantity="zero">%1$d دقيقة</item>
+        <item quantity="one">%1$d دقيقة</item>
+        <item quantity="two">%1$d دقائق</item>
+        <item quantity="few">%1$d دقائق</item>
+        <item quantity="many">%1$d دقيقة</item>
+    </plurals>
+    <plurals name="f98">
+        <item quantity="other">%1$d ثانية</item>
+        <item quantity="zero">%1$d ثانية</item>
+        <item quantity="one">%1$d ثانية</item>
+        <item quantity="two">%1$d ثواني</item>
+        <item quantity="few">%1$d ثواني</item>
+        <item quantity="many">%1$d ثانية</item>
+    </plurals>
+    <plurals name="f99">
+        <item quantity="other">تم تشغيل المؤقت (%1$d ثانية). سيتم نقل الصور إلى هذا الجهاز.</item>
+        <item quantity="zero">تم تشغيل المؤقت (%1$d ثانية). سيتم نقل الصور إلى هذا الجهاز.</item>
+        <item quantity="one">تم تشغيل المؤقت (%1$d ثانية). سيتم نقل الصور إلى هذا الجهاز.</item>
+        <item quantity="two">تم تشغيل المؤقت (%1$d ثواني). سيتم نقل الصور إلى هذا الجهاز.</item>
+        <item quantity="few">تم تشغيل المؤقت (%1$d ثواني). سيتم نقل الصور إلى هذا الجهاز.</item>
+        <item quantity="many">تم تشغيل المؤقت (%1$d ثانية). سيتم نقل الصور إلى هذا الجهاز.</item>
+    </plurals>
+    <plurals name="f9_">
+        <item quantity="other">منذ نصف ساعة</item>
+        <item quantity="zero">منذ نصف ساعة</item>
+        <item quantity="one">منذ نصف ساعة</item>
+        <item quantity="two">منذ نصف ساعة</item>
+        <item quantity="few">منذ نصف ساعة</item>
+        <item quantity="many">منذ نصف ساعة</item>
+    </plurals>
+    <plurals name="f9a">
+        <item quantity="other">خلال ١ ساعة</item>
+        <item quantity="zero">خلال ١ ساعة</item>
+        <item quantity="one">خلال ١ ساعة</item>
+        <item quantity="two">خلال ١ ساعة</item>
+        <item quantity="few">خلال ١ ساعة</item>
+        <item quantity="many">خلال ١ ساعة</item>
+    </plurals>
+    <plurals name="f9b">
+        <item quantity="other">في نصف ساعة</item>
+        <item quantity="zero">في نصف ساعة</item>
+        <item quantity="one">في نصف ساعة</item>
+        <item quantity="two">في نصف ساعة</item>
+        <item quantity="few">في نصف ساعة</item>
+        <item quantity="many">في نصف ساعة</item>
+    </plurals>
+    <plurals name="f9c">
+        <item quantity="other">فوراً</item>
+        <item quantity="zero">فوراً</item>
+        <item quantity="one">فوراً</item>
+        <item quantity="two">فوراً</item>
+        <item quantity="few">فوراً</item>
+        <item quantity="many">فوراً</item>
+    </plurals>
+    <plurals name="f9d">
+        <item quantity="other">في %d دقيقة</item>
+        <item quantity="zero">في %d دقيقة</item>
+        <item quantity="one">في دقيقة</item>
+        <item quantity="two">في %d دقائق</item>
+        <item quantity="few">في %d دقائق</item>
+        <item quantity="many">في %d دقيقة</item>
+    </plurals>
+    <plurals name="f9e">
+        <item quantity="other">الآن</item>
+        <item quantity="zero">الآن</item>
+        <item quantity="one">الآن</item>
+        <item quantity="two">الآن</item>
+        <item quantity="few">الآن</item>
+        <item quantity="many">الآن</item>
+    </plurals>
+    <plurals name="f9f">
+        <item quantity="other">حذف %1$d مسودة؟</item>
+        <item quantity="zero">حذف %1$d مسودة؟</item>
+        <item quantity="one">حذف %1$d مسودة؟</item>
+        <item quantity="two">حذف %1$d مسودات؟</item>
+        <item quantity="few">حذف %1$d مسودات؟</item>
+        <item quantity="many">حذف %1$d مسودة؟</item>
+    </plurals>
+    <plurals name="f9g">
+        <item quantity="other">إضافة ما يصل إلى %d إعداد مسبق</item>
+        <item quantity="zero">يدعم إضافة ما يصل إلى %d إعداد مسبق</item>
+        <item quantity="one">إضافة ما يصل إلى %d إعداد مسبق</item>
+        <item quantity="two">يدعم إضافة ما يصل إلى %d إعدادات مسبقة</item>
+        <item quantity="few">يدعم إضافة ما يصل إلى %d إعدادات مسبقة</item>
+        <item quantity="many">إضافة ما يصل إلى %d إعداد مسبق</item>
+    </plurals>
+    <plurals name="f9h">
+        <item quantity="other">%d عنصر محدد</item>
+        <item quantity="zero">%d عنصر محدد</item>
+        <item quantity="one">%d عنصر محدد</item>
+        <item quantity="two">%d عناصر محددة</item>
+        <item quantity="few">%d عناصر محددة</item>
+        <item quantity="many">%d عنصر محدد</item>
+    </plurals>
+    <plurals name="f9j">
+        <item quantity="other">%d إشعار جديد</item>
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+    </plurals>
+    <plurals name="f9k">
+        <item quantity="other">منذ %d دق</item>
+        <item quantity="zero">منذ %d دق</item>
+        <item quantity="one">منذ دقيقة</item>
+        <item quantity="two">منذ %d دق</item>
+        <item quantity="few">منذ %d دق</item>
+        <item quantity="many">منذ %d دق</item>
+    </plurals>
+    <plurals name="f9l">
+        <item quantity="other">%dث</item>
+        <item quantity="zero">%dث</item>
+        <item quantity="one">%dث</item>
+        <item quantity="two">%dث</item>
+        <item quantity="few">%dث</item>
+        <item quantity="many">%dث</item>
+    </plurals>
+    <plurals name="f9m">
+        <item quantity="other">%1$s دقيقة</item>
+        <item quantity="zero">%1$s دقيقة</item>
+        <item quantity="one">%1$s دقيقة</item>
+        <item quantity="two">%1$s دقائق</item>
+        <item quantity="few">%1$s دقائق</item>
+        <item quantity="many">%1$s دقيقة</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">تسجيل %d ثانية</item>
+        <item quantity="zero">تسجيل %d ثانية</item>
+        <item quantity="one">تسجيل %d ثانية</item>
+        <item quantity="two">تسجيل %d ثواني</item>
+        <item quantity="few">تسجيل %d ثواني</item>
+        <item quantity="many">تسجيل %d ثانية</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">يمكنك تجميد وقت الفيديوهات فقط مع %d عنصر</item>
+        <item quantity="zero">يمكنك تجميد وقت الفيديوهات فقط مع %d عنصر</item>
+        <item quantity="one">يمكنك تجميد وقت الفيديوهات فقط مع %d عنصر</item>
+        <item quantity="two">يمكنك تجميد وقت الفيديوهات فقط مع %d عناصر</item>
+        <item quantity="few">يمكنك تجميد وقت الفيديوهات فقط مع %d عناصر</item>
+        <item quantity="many">يمكنك تجميد وقت الفيديوهات فقط مع %d عنصر</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">%1$s صور</item>
+        <item quantity="zero">%1$s صور</item>
+        <item quantity="one">%1$s صورة</item>
+        <item quantity="two">%1$s صور</item>
+        <item quantity="few">%1$s صورة</item>
+        <item quantity="many">%1$s صور</item>
+    </plurals>
+</resources>

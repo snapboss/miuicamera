@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f95">
+        <item quantity="other">Spoel %d sekondes vinnig vorentoe</item>
+        <item quantity="one">Spoel %d sekonde vinnig vorentoe</item>
+    </plurals>
+    <plurals name="f96">
+        <item quantity="other">Spoel %d sekondes terug</item>
+        <item quantity="one">Spoel %d sekonde terug</item>
+    </plurals>
+    <plurals name="f9j">
+        <item quantity="other">%d nuwe kennisgewings</item>
+        <item quantity="one">%d nuwe kennisgewing</item>
+    </plurals>
+</resources>

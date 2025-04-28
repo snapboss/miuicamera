@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="b9m">0.0dip</dimen>
+    <dimen name="bmp">360.0dip</dimen>
+    <dimen name="dhd">90.0dip</dimen>
+    <dimen name="dhf">96.369995dip</dimen>
+    <dimen name="dhh">68.0dip</dimen>
+    <dimen name="dhj">118.0dip</dimen>
+    <dimen name="dhl">86.0dip</dimen>
+    <dimen name="dhm">100.0dip</dimen>
+    <dimen name="dir">30.0dip</dimen>
+    <dimen name="dje">1088.0dip</dimen>
+    <dimen name="djj">71.0dip</dimen>
+    <dimen name="djw">100.91998dip</dimen>
+    <dimen name="dk0">-4.0dip</dimen>
+    <dimen name="dk_">141.88dip</dimen>
+    <dimen name="e09">102.0dip</dimen>
+</resources>

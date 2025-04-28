@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="j6p" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">@style/im1</item>
+        <item name="android:textSize">@dimen/cox</item>
+        <item name="android:textColor">?as7</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:background">?lx</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:elegantTextHeight">true</item>
+        <item name="android:fallbackLineSpacing">false</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>

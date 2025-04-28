@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.smooth.SmoothContainerDrawable2 android:radius="@dimen/b9g" app:acm="@color/visual_check_borderlayout_bg_stroke_color" app:acp="@dimen/b9h"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

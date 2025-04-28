@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="b5c">5.0dip</dimen>
+    <dimen name="ba4">87.0dip</dimen>
+    <dimen name="bcc">264.79688dip</dimen>
+    <dimen name="bs7">129.9512dip</dimen>
+    <dimen name="bs9">151.36679dip</dimen>
+    <dimen name="cfr">14.319977dip</dimen>
+    <dimen name="cft">31.299988dip</dimen>
+    <item type="dimen" name="ck0">0.317</item>
+    <dimen name="cl9">112.85397dip</dimen>
+    <dimen name="cln">16.362976dip</dimen>
+    <dimen name="clq">22.72998dip</dimen>
+    <dimen name="d6r">13.079987sp</dimen>
+    <dimen name="d6s">13.079987dip</dimen>
+    <item type="dimen" name="dq4">0.317</item>
+    <dimen name="dqg">39.0dip</dimen>
+    <dimen name="dvu">10.179993dip</dimen>
+    <dimen name="dvy">70.94998dip</dimen>
+    <dimen name="dvz">10.819dip</dimen>
+    <dimen name="e4a">16.5dip</dimen>
+    <dimen name="e4j">76.119995dip</dimen>
+    <dimen name="e4k">46.319977dip</dimen>
+    <dimen name="e4l">36.399994dip</dimen>
+    <dimen name="e4n">16.5dip</dimen>
+    <dimen name="e4o">33.099976dip</dimen>
+    <dimen name="e4s">3.3099976dip</dimen>
+    <dimen name="e4u">9.929993dip</dimen>
+    <dimen name="e4v">66.19998dip</dimen>
+    <dimen name="e4w">86.03dip</dimen>
+    <dimen name="e4z">6.619995dip</dimen>
+    <dimen name="e50">6.619995dip</dimen>
+    <dimen name="e51">6.619995dip</dimen>
+    <dimen name="e54">21.0dip</dimen>
+    <dimen name="efo">11.319977dip</dimen>
+    <dimen name="eh1">177.16998dip</dimen>
+    <dimen name="eh2">195.12dip</dimen>
+    <dimen name="eh3">345.7578dip</dimen>
+    <dimen name="ehc">270.82812dip</dimen>
+</resources>

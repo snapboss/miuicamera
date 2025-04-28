@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="j83" parent="@style/ih4">
+        <item name="apx">center</item>
+        <item name="aq_">fixed</item>
+    </style>
+</resources>

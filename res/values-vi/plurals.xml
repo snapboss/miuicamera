@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f8j">
+        <item quantity="other">1 giờ trước</item>
+    </plurals>
+    <plurals name="f8k">
+        <item quantity="other">%d giờ trước</item>
+    </plurals>
+    <plurals name="f8l">
+        <item quantity="other">Nửa giờ trước</item>
+    </plurals>
+    <plurals name="f8m">
+        <item quantity="other">Trong %d giờ</item>
+    </plurals>
+    <plurals name="f8n">
+        <item quantity="other">Trong nửa giờ</item>
+    </plurals>
+    <plurals name="f8o">
+        <item quantity="other">Tức thì</item>
+    </plurals>
+    <plurals name="f8p">
+        <item quantity="other">Sau %d phút</item>
+    </plurals>
+    <plurals name="f8q">
+        <item quantity="other">Vừa xong</item>
+    </plurals>
+    <plurals name="f8r">
+        <item quantity="other">%d phút trước</item>
+    </plurals>
+    <plurals name="f8s">
+        <item quantity="other">Hẹn giờ %d giây cho Chế độ ban đêm</item>
+    </plurals>
+    <plurals name="f8t">
+        <item quantity="other">Đã lấy nét. Phát hiện %d khuôn mặt</item>
+    </plurals>
+    <plurals name="f8u">
+        <item quantity="other">%d ảnh trong một lần chụp liên tiếp</item>
+    </plurals>
+    <plurals name="f8v">
+        <item quantity="other">Khoảng thời gian: %d giây</item>
+    </plurals>
+    <plurals name="f8w">
+        <item quantity="other">Thời lượng: %d giây</item>
+    </plurals>
+    <plurals name="f8x">
+        <item quantity="other">Đã nhập %d ký tự.</item>
+    </plurals>
+    <plurals name="f8y">
+        <item quantity="other">Nhập tối đa %d ký tự.</item>
+    </plurals>
+    <plurals name="f8z">
+        <item quantity="other">Bạn có thể kết nối tối đa %d camera với cùng một mạng</item>
+    </plurals>
+    <plurals name="f90">
+        <item quantity="other">Bạn có thể kết nối tối đa %d màn hình với cùng một mạng</item>
+    </plurals>
+    <plurals name="f91">
+        <item quantity="other">Bạn có thể tạo tối đa %d phân thân tại một thời điểm.</item>
+    </plurals>
+    <plurals name="f92">
+        <item quantity="other">&lt;Data>Không thể kết nối camera.&lt;br>Ứng dụng này sẽ đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Sau đó, chờ một hoặc hai phút và thử lại.&lt;/Data></item>
+    </plurals>
+    <plurals name="f93">
+        <item quantity="other">&lt;Data>Thiết bị này hiện quá nóng.&lt;br>Ứng dụng sẽ đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Tiến trình hiện tại đã được lưu tự động.&lt;/Data></item>
+    </plurals>
+    <plurals name="f94">
+        <item quantity="other">&lt;Data>Phiên bản Camera mà bạn đang sử dụng không tương thích với mẫu thiết bị của bạn&lt;br>Ứng dụng sẽ đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Gỡ cài đặt cập nhật Camera và thử lại.&lt;/Data></item>
+    </plurals>
+    <plurals name="f95">
+        <item quantity="other">Tua nhanh %d giây</item>
+        <item quantity="one">Tua nhanh %d giây</item>
+    </plurals>
+    <plurals name="f96">
+        <item quantity="other">Tua lại %d giây</item>
+        <item quantity="one">Tua lại %d giây</item>
+    </plurals>
+    <plurals name="f97">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="f98">
+        <item quantity="other">%1$d giây</item>
+    </plurals>
+    <plurals name="f99">
+        <item quantity="other">Đã bật hẹn giờ (%1$d giây). Ảnh sẽ được chuyển đến thiết bị này.</item>
+    </plurals>
+    <plurals name="f9_">
+        <item quantity="other">Nửa giờ trước</item>
+    </plurals>
+    <plurals name="f9a">
+        <item quantity="other">Trong 1 giờ</item>
+    </plurals>
+    <plurals name="f9b">
+        <item quantity="other">Trong nửa giờ</item>
+    </plurals>
+    <plurals name="f9c">
+        <item quantity="other">Tức thì</item>
+    </plurals>
+    <plurals name="f9d">
+        <item quantity="other">trong %d phút</item>
+    </plurals>
+    <plurals name="f9e">
+        <item quantity="other">Vừa mới</item>
+    </plurals>
+    <plurals name="f9f">
+        <item quantity="other">Xóa %1$d thư nháp?</item>
+    </plurals>
+    <plurals name="f9g">
+        <item quantity="other">Thêm đến %d đặt trước</item>
+    </plurals>
+    <plurals name="f9h">
+        <item quantity="other">Đã chọn %d mục</item>
+    </plurals>
+    <plurals name="f9j">
+        <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
+    </plurals>
+    <plurals name="f9k">
+        <item quantity="other">%d phút trước</item>
+    </plurals>
+    <plurals name="f9l">
+        <item quantity="other">%d giây</item>
+    </plurals>
+    <plurals name="f9m">
+        <item quantity="other">%1$s phút</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">Quay %d giây</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">Bạn có thể quay video đóng băng thời gian với tối đa %d đối tượng.</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">%1$s ảnh</item>
+    </plurals>
+</resources>

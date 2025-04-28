@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f8j">
+        <item quantity="other">1 jam lalu</item>
+    </plurals>
+    <plurals name="f8k">
+        <item quantity="other">%d jam yang lalu</item>
+    </plurals>
+    <plurals name="f8l">
+        <item quantity="other">Setengah jam lalu</item>
+    </plurals>
+    <plurals name="f8m">
+        <item quantity="other">%d jam lagi</item>
+    </plurals>
+    <plurals name="f8n">
+        <item quantity="other">0,5 jam lagi</item>
+    </plurals>
+    <plurals name="f8o">
+        <item quantity="other">Segera</item>
+    </plurals>
+    <plurals name="f8p">
+        <item quantity="other">%d mnt lagi</item>
+    </plurals>
+    <plurals name="f8q">
+        <item quantity="other">Baru saja</item>
+    </plurals>
+    <plurals name="f8r">
+        <item quantity="other">%d mnt lalu</item>
+    </plurals>
+    <plurals name="f8s">
+        <item quantity="other">Timer %d detik untuk mode Malam</item>
+    </plurals>
+    <plurals name="f8t">
+        <item quantity="other">Fokus. %d muka terdeteksi</item>
+    </plurals>
+    <plurals name="f8u">
+        <item quantity="other">%d foto dalam foto beruntun</item>
+    </plurals>
+    <plurals name="f8v">
+        <item quantity="other">Interval: %d detik</item>
+    </plurals>
+    <plurals name="f8w">
+        <item quantity="other">Durasi: %d detik</item>
+    </plurals>
+    <plurals name="f8x">
+        <item quantity="other">%d karakter dimasukkan.</item>
+    </plurals>
+    <plurals name="f8y">
+        <item quantity="other">Masukkan maksimal %d karakter.</item>
+    </plurals>
+    <plurals name="f8z">
+        <item quantity="other">Maksimal menghubungkan %d kamera ke jaringan yang sama</item>
+    </plurals>
+    <plurals name="f90">
+        <item quantity="other">Maksimal menghubungkan %d monitor ke jaringan yang sama</item>
+    </plurals>
+    <plurals name="f91">
+        <item quantity="other">Maksimal bisa buat %d kloning dalam satu kali proses.</item>
+    </plurals>
+    <plurals name="f92">
+        <item quantity="other">&lt;Data>Tidak dapat terhubung ke kamera.&lt;br>Apl ini akan ditutup setelah &lt;font color=#FFCE16>&lt;b>%1$d dtk&lt;/b>&lt;/font>. Setelahnya, tunggu sebentar dan coba lagi.&lt;/Data></item>
+    </plurals>
+    <plurals name="f93">
+        <item quantity="other">&lt;Data>Perangkat ini terlalu panas sekarang.&lt;br>Apl akan ditutup setelah &lt;font color=#FFCE16>&lt;b>%1$d dtk&lt;/b>&lt;/font>. Perkembangan saat ini akan otomatis disimpan.&lt;/Data></item>
+    </plurals>
+    <plurals name="f94">
+        <item quantity="other">&lt;Data>Versi Kamera yang Anda gunakan tidak kompatibel dengan model perangkat Anda.&lt;br>Apl ini akan ditutup setelah &lt;font color=#FFCE16>&lt;b>%1$d dtk&lt;/b>&lt;/font> lagi. Uninstal pembaruan Kamera dan coba lagi&lt;/Data></item>
+    </plurals>
+    <plurals name="f95">
+        <item quantity="other">Maju cepat %d detik</item>
+        <item quantity="one">Maju cepat %d detik</item>
+    </plurals>
+    <plurals name="f96">
+        <item quantity="other">Mundur %d detik</item>
+        <item quantity="one">Mundur %d detik</item>
+    </plurals>
+    <plurals name="f97">
+        <item quantity="other">%1$d mnt</item>
+    </plurals>
+    <plurals name="f98">
+        <item quantity="other">%1$d dtk</item>
+    </plurals>
+    <plurals name="f99">
+        <item quantity="other">Timer dihidupkan (%1$d dtk). Foto akan ditransfer ke perangkat ini.</item>
+    </plurals>
+    <plurals name="f9_">
+        <item quantity="other">Setengah jam lalu</item>
+    </plurals>
+    <plurals name="f9a">
+        <item quantity="other">1 jam lagi</item>
+    </plurals>
+    <plurals name="f9b">
+        <item quantity="other">0,5 jam lagi</item>
+    </plurals>
+    <plurals name="f9c">
+        <item quantity="other">Segera</item>
+    </plurals>
+    <plurals name="f9d">
+        <item quantity="other">%d mnt lagi</item>
+    </plurals>
+    <plurals name="f9e">
+        <item quantity="other">Baru saja</item>
+    </plurals>
+    <plurals name="f9f">
+        <item quantity="other">Hapus %1$d draf?</item>
+    </plurals>
+    <plurals name="f9g">
+        <item quantity="other">Maksimal %d preset</item>
+    </plurals>
+    <plurals name="f9h">
+        <item quantity="other">%d item terpilih</item>
+    </plurals>
+    <plurals name="f9j">
+        <item quantity="other">%d notifikasi baru</item>
+        <item quantity="one">%d notifikasi baru</item>
+    </plurals>
+    <plurals name="f9k">
+        <item quantity="other">%d menit lalu</item>
+    </plurals>
+    <plurals name="f9l">
+        <item quantity="other">%dd</item>
+    </plurals>
+    <plurals name="f9m">
+        <item quantity="other">%1$s mnt</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">Rekam %d detik</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">Anda dapat merekam video dengan efek pembekuan waktu maksimal %d subjek.</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">%1$s foto</item>
+    </plurals>
+</resources>

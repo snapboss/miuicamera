@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:elevation="0.0dip" app:mt="@color/fullscreen_background" app:mw="@dimen/cpd">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="@dimen/c4o" android:layout_height="wrap_content" android:contentDescription="@string/gzf">
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <FrameLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+                    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/video_beauty_hint_before" android:scaleType="centerCrop" android:adjustViewBounds="true" />
+                    <LinearLayout android:layout_gravity="end|bottom|center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/bl6" android:layout_marginEnd="@dimen/bl7">
+                        <TextView android:textSize="13.299988sp" android:textColor="@color/white" android:ellipsize="marquee" android:layout_gravity="end" android:id="@id/video_beauty_hint_original" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/bl8" android:text="@string/g4p" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+                    </LinearLayout>
+                </FrameLayout>
+                <FrameLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+                    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/video_beauty_hint_after" android:scaleType="centerCrop" android:adjustViewBounds="true" />
+                    <LinearLayout android:layout_gravity="end|bottom|center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/bl6" android:layout_marginEnd="@dimen/bl7">
+                        <TextView android:textSize="13.299988sp" android:textColor="@color/white" android:ellipsize="marquee" android:layout_gravity="end" android:id="@id/video_beauty_hint_processed" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/bl8" android:text="@string/g4t" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+                    </LinearLayout>
+                </FrameLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:background="@color/newbie_cv_lens_bg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="18.0sp" android:textColor="@color/newbie_cv_lens_title" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:layout_width="@dimen/c4s" android:layout_height="wrap_content" android:layout_marginTop="@dimen/c4l" android:text="@string/i5c" />
+                <TextView android:textSize="14.0sp" android:textColor="@color/newbie_cv_lens_context" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:layout_width="@dimen/c4s" android:layout_height="wrap_content" android:layout_marginTop="@dimen/c4m" android:layout_marginBottom="@dimen/c4t" android:text="@string/i5b" />
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+    <ImageButton android:id="@id/btn_cancel" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/c4h" android:src="@drawable/ic_vector_dialog_cancel" android:contentDescription="@string/gze" />
+</LinearLayout>

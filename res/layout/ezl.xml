@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:gravity="center" android:layout_gravity="center_vertical" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="?ahp" android:paddingEnd="?ahp" style="@style/jh4"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textAppearance="@style/ilo" android:ellipsize="end" android:id="@android:id/title" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="viewStart" app:a6r="parent" app:a6x="parent" app:a77="0.0" app:a7g="parent" app:a7k="parent" app:a7l="0.0" />
+    <androidx.recyclerview.widget.RecyclerView android:id="@id/tint_color_list" android:layout_width="fill_parent" android:layout_height="wrap_content" app:a6r="parent" app:a6x="parent" app:a77="0.0" app:a7g="parent" app:a7j="@android:id/title" app:a7l="0.0" />
+</androidx.constraintlayout.widget.ConstraintLayout>

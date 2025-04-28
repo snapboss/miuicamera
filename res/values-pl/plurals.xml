@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f8j">
+        <item quantity="other">Godzinę temu</item>
+        <item quantity="one">Godzinę temu</item>
+        <item quantity="few">Godzinę temu</item>
+        <item quantity="many">Godzinę temu</item>
+    </plurals>
+    <plurals name="f8k">
+        <item quantity="other">%d godz. temu</item>
+        <item quantity="one">%d godz. temu</item>
+        <item quantity="few">%d godz. temu</item>
+        <item quantity="many">%d godz. temu</item>
+    </plurals>
+    <plurals name="f8l">
+        <item quantity="other">Pół godziny temu</item>
+        <item quantity="one">Pół godziny temu</item>
+        <item quantity="few">Pół godziny temu</item>
+        <item quantity="many">Pół godziny temu</item>
+    </plurals>
+    <plurals name="f8m">
+        <item quantity="other">Za %d godz.</item>
+        <item quantity="one">Za %d godz.</item>
+        <item quantity="few">Za %d godz.</item>
+        <item quantity="many">Za %d godz.</item>
+    </plurals>
+    <plurals name="f8n">
+        <item quantity="other">Za pół godziny</item>
+        <item quantity="one">Za pół godziny</item>
+        <item quantity="few">Za pół godziny</item>
+        <item quantity="many">Za pół godziny</item>
+    </plurals>
+    <plurals name="f8o">
+        <item quantity="other">Natychmiast</item>
+        <item quantity="one">Natychmiast</item>
+        <item quantity="few">Natychmiast</item>
+        <item quantity="many">Natychmiast</item>
+    </plurals>
+    <plurals name="f8p">
+        <item quantity="other">Za %d min</item>
+        <item quantity="one">Za %d min</item>
+        <item quantity="few">Za %d min</item>
+        <item quantity="many">Za %d min</item>
+    </plurals>
+    <plurals name="f8q">
+        <item quantity="other">Teraz</item>
+        <item quantity="one">Teraz</item>
+        <item quantity="few">Teraz</item>
+        <item quantity="many">Teraz</item>
+    </plurals>
+    <plurals name="f8r">
+        <item quantity="other">%d min temu</item>
+        <item quantity="one">%d min temu</item>
+        <item quantity="few">%d min temu</item>
+        <item quantity="many">%d min temu</item>
+    </plurals>
+    <plurals name="f8s">
+        <item quantity="other">%d-sekundowy samowyzwalacz dla Trybu nocnego</item>
+        <item quantity="one">%d-sekundowy samowyzwalacz dla Trybu nocnego</item>
+        <item quantity="few">%d-sekundowy samowyzwalacz dla Trybu nocnego</item>
+        <item quantity="many">%d-sekundowy samowyzwalacz dla Trybu nocnego</item>
+    </plurals>
+    <plurals name="f8t">
+        <item quantity="other">Złapano ostrość. Wykryto %d twarzy</item>
+        <item quantity="one">Złapano ostrość. Wykryto %d twarz</item>
+        <item quantity="few">Złapano ostrość. Wykryto %d twarze</item>
+        <item quantity="many">Złapano ostrość. Wykryto %d twarzy</item>
+    </plurals>
+    <plurals name="f8u">
+        <item quantity="other">%d zdjęć w serii</item>
+        <item quantity="one">%d zdjęcie w serii</item>
+        <item quantity="few">%d zdjęcia w serii</item>
+        <item quantity="many">%d zdjęć w serii</item>
+    </plurals>
+    <plurals name="f8v">
+        <item quantity="other">Interwał: %d sekund</item>
+        <item quantity="one">Interwał: %d sekunda</item>
+        <item quantity="few">Interwał: %d sekundy</item>
+        <item quantity="many">Interwał: %d sekund</item>
+    </plurals>
+    <plurals name="f8w">
+        <item quantity="other">Czas trwania: %d sekund</item>
+        <item quantity="one">Czas trwania: %d sekunda</item>
+        <item quantity="few">Czas trwania: %d sekundy</item>
+        <item quantity="many">Czas trwania: %d sekund</item>
+    </plurals>
+    <plurals name="f8x">
+        <item quantity="other">Wprowadzono %d znaku.</item>
+        <item quantity="one">Wprowadzono %d znak.</item>
+        <item quantity="few">Wprowadzono %d znaki.</item>
+        <item quantity="many">Wprowadzono %d znaków.</item>
+    </plurals>
+    <plurals name="f8y">
+        <item quantity="other">Wprowadź maksymalnie %d znaku.</item>
+        <item quantity="one">Wprowadź maksymalnie %d znak.</item>
+        <item quantity="few">Wprowadź maksymalnie %d znaki.</item>
+        <item quantity="many">Wprowadź maksymalnie %d znaków.</item>
+    </plurals>
+    <plurals name="f8z">
+        <item quantity="other">Możesz połączyć maks. %d aparatu do tej samej sieci</item>
+        <item quantity="one">Możesz połączyć maks. %d aparat do tej samej sieci</item>
+        <item quantity="few">Możesz połączyć maks. %d aparaty do tej samej sieci</item>
+        <item quantity="many">Możesz połączyć maks. %d aparatów do tej samej sieci</item>
+    </plurals>
+    <plurals name="f90">
+        <item quantity="other">Możesz połączyć maks. %d monitoru do tej samej sieci</item>
+        <item quantity="one">Możesz połączyć maks. %d monitor do tej samej sieci</item>
+        <item quantity="few">Możesz połączyć maks. %d monitory do tej samej sieci</item>
+        <item quantity="many">Możesz połączyć maks. %d monitorów do tej samej sieci</item>
+    </plurals>
+    <plurals name="f91">
+        <item quantity="other">Możesz jednorazowo utworzyć do %d klonów.</item>
+        <item quantity="one">Możesz jednorazowo utworzyć do %d klona.</item>
+        <item quantity="few">Możesz jednorazowo utworzyć do %d klonów.</item>
+        <item quantity="many">Możesz jednorazowo utworzyć do %d klonów.</item>
+    </plurals>
+    <plurals name="f92">
+        <item quantity="other">&lt;Data>Nie można połączyć się z aparatem.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Następnie odczekaj minutę lub dwie i spróbuj ponownie.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Nie można połączyć się z aparatem.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Następnie odczekaj minutę lub dwie i spróbuj ponownie.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Nie można połączyć się z aparatem.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Następnie odczekaj minutę lub dwie i spróbuj ponownie.&lt;/Data></item>
+        <item quantity="many">&lt;Data>Nie można połączyć się z aparatem.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Następnie odczekaj minutę lub dwie i spróbuj ponownie.&lt;/Data></item>
+    </plurals>
+    <plurals name="f93">
+        <item quantity="other">&lt;Data>To urządzenie jest teraz za gorące.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Aktualny postęp został automatycznie zapisany.&lt;/Data></item>
+        <item quantity="one">&lt;Data>To urządzenie jest teraz za gorące.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Aktualny postęp został automatycznie zapisany.&lt;/Data></item>
+        <item quantity="few">&lt;Data>To urządzenie jest teraz za gorące.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Aktualny postęp został automatycznie zapisany.&lt;/Data></item>
+        <item quantity="many">&lt;Data>To urządzenie jest teraz za gorące.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Aktualny postęp został automatycznie zapisany.&lt;/Data></item>
+    </plurals>
+    <plurals name="f94">
+        <item quantity="other">&lt;Data>Wersja Aparatu, z której korzystasz, nie jest kompatybilna z Twoim urządzeniem.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font> Odinstaluj aktualizacje Aparatu i spróbuj ponownie.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Wersja Aparatu, z której korzystasz, nie jest kompatybilna z Twoim urządzeniem.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font> Odinstaluj aktualizacje Aparatu i spróbuj ponownie.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Wersja Aparatu, z której korzystasz, nie jest kompatybilna z Twoim urządzeniem.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font> Odinstaluj aktualizacje Aparatu i spróbuj ponownie.&lt;/Data></item>
+        <item quantity="many">&lt;Data>Wersja Aparatu, z której korzystasz, nie jest kompatybilna z Twoim urządzeniem.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font> Odinstaluj aktualizacje Aparatu i spróbuj ponownie.&lt;/Data></item>
+    </plurals>
+    <plurals name="f95">
+        <item quantity="other">Przewiń do przodu o %d sekundy</item>
+        <item quantity="one">Przewiń do przodu o %d sekundę</item>
+        <item quantity="few">Przewiń do przodu o %d sekundy</item>
+        <item quantity="many">Przewiń do przodu o %d sekund</item>
+    </plurals>
+    <plurals name="f96">
+        <item quantity="other">Przewiń do tyłu o %d sekundy</item>
+        <item quantity="one">Przewiń do tyłu o %d sekundę</item>
+        <item quantity="few">Przewiń do tyłu o %d sekundy</item>
+        <item quantity="many">Przewiń do tyłu o %d sekund</item>
+    </plurals>
+    <plurals name="f97">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+        <item quantity="few">%1$d min</item>
+        <item quantity="many">%1$d min</item>
+    </plurals>
+    <plurals name="f98">
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sek.</item>
+        <item quantity="few">%1$d sek.</item>
+        <item quantity="many">%1$d sek.</item>
+    </plurals>
+    <plurals name="f99">
+        <item quantity="other">Włączono samowyzwalacz (%1$d sek.). Zdjęcia zostaną przesłane do tego urządzenia.</item>
+        <item quantity="one">Włączono samowyzwalacz (%1$d sek.). Zdjęcia zostaną przesłane do tego urządzenia.</item>
+        <item quantity="few">Włączono samowyzwalacz (%1$d sek.). Zdjęcia zostaną przesłane do tego urządzenia.</item>
+        <item quantity="many">Włączono samowyzwalacz (%1$d sek.). Zdjęcia zostaną przesłane do tego urządzenia.</item>
+    </plurals>
+    <plurals name="f9_">
+        <item quantity="other">Pół godziny temu</item>
+        <item quantity="one">Pół godziny temu</item>
+        <item quantity="few">Pół godziny temu</item>
+        <item quantity="many">Pół godziny temu</item>
+    </plurals>
+    <plurals name="f9a">
+        <item quantity="other">Za godzinę</item>
+        <item quantity="one">Za godzinę</item>
+        <item quantity="few">Za godzinę</item>
+        <item quantity="many">Za godzinę</item>
+    </plurals>
+    <plurals name="f9b">
+        <item quantity="other">Za pół godziny</item>
+        <item quantity="one">Za pół godziny</item>
+        <item quantity="few">Za pół godziny</item>
+        <item quantity="many">Za pół godziny</item>
+    </plurals>
+    <plurals name="f9c">
+        <item quantity="other">Natychmiast</item>
+        <item quantity="one">Natychmiast</item>
+        <item quantity="few">Natychmiast</item>
+        <item quantity="many">Natychmiast</item>
+    </plurals>
+    <plurals name="f9d">
+        <item quantity="other">za %d minut</item>
+        <item quantity="one">za 1 minutę</item>
+        <item quantity="few">za %d minuty</item>
+        <item quantity="many">za %d minut</item>
+    </plurals>
+    <plurals name="f9e">
+        <item quantity="other">Teraz</item>
+        <item quantity="one">Teraz</item>
+        <item quantity="few">Teraz</item>
+        <item quantity="many">Teraz</item>
+    </plurals>
+    <plurals name="f9f">
+        <item quantity="other">Usunąć %1$d szkiców?</item>
+        <item quantity="one">Usunąć %1$d szkic?</item>
+        <item quantity="few">Usunąć %1$d szkice?</item>
+        <item quantity="many">Usunąć %1$d szkiców?</item>
+    </plurals>
+    <plurals name="f9g">
+        <item quantity="other">Dodaj %d ustawienia wstępnego</item>
+        <item quantity="one">Dodaj %d ustawienie wstępne</item>
+        <item quantity="few">Dodaj %d ustawienia wstępne</item>
+        <item quantity="many">Dodaj %d ustawień wstępnych</item>
+    </plurals>
+    <plurals name="f9h">
+        <item quantity="other">%d zaznaczonych elementów</item>
+        <item quantity="one">%d zaznaczony element</item>
+        <item quantity="few">%d zaznaczone elementy</item>
+        <item quantity="many">%d zaznaczonych elementów</item>
+    </plurals>
+    <plurals name="f9j">
+        <item quantity="other">%d nowego powiadomienia</item>
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="many">%d nowych powiadomień</item>
+    </plurals>
+    <plurals name="f9k">
+        <item quantity="other">%d minut temu</item>
+        <item quantity="one">1 minutę temu</item>
+        <item quantity="few">%d minuty temu</item>
+        <item quantity="many">%d minut temu</item>
+    </plurals>
+    <plurals name="f9l">
+        <item quantity="other">%d sek.</item>
+        <item quantity="one">%d sek.</item>
+        <item quantity="few">%d sek.</item>
+        <item quantity="many">%d sek.</item>
+    </plurals>
+    <plurals name="f9m">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+        <item quantity="few">%1$s min</item>
+        <item quantity="many">%1$s min</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">Nagraj %d sekund</item>
+        <item quantity="one">Nagraj %d sekundę</item>
+        <item quantity="few">Nagraj %d sekundy</item>
+        <item quantity="many">Nagraj %d sekund</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">Możesz nagrywać zatrzymane wideo tylko z %d elementami.</item>
+        <item quantity="one">Możesz nagrywać zatrzymane wideo tylko z %d elementem.</item>
+        <item quantity="few">Możesz nagrywać zatrzymane wideo tylko z %d elementami.</item>
+        <item quantity="many">Możesz nagrywać zatrzymane wideo tylko z %d elementami.</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">%1$s zdjęć</item>
+        <item quantity="one">%1$s zdjęcie</item>
+        <item quantity="few">%1$s zdjęcia</item>
+        <item quantity="many">%1$s zdjęć</item>
+    </plurals>
+</resources>

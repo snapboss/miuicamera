@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="center|left" android:layout_width="wrap_content" android:layout_height="@dimen/di2" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/fastmotion_tip_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/di3" android:layout_alignParentBottom="true" layout="@layout/es8" />
+    <androidx.viewpager2.widget.ViewPager2 android:id="@id/fast_motion_viewPager" android:focusable="false" android:layout_width="@dimen/dk4" android:layout_height="@dimen/di4" android:layout_centerVertical="true" />
+</RelativeLayout>

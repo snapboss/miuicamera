@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:id="@id/top_menu_root" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.android.camera.ui.BlurBackgroundView android:id="@id/top_menu_blur_background" android:layout_width="fill_parent" android:layout_height="wrap_content" app:aj9="@dimen/e46" />
+    <com.android.camera.ui.ShapeBackGroundView android:id="@id/top_menu_background" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <FrameLayout android:layout_gravity="center|top" android:id="@id/top_menu" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/top_menu_recyclerview" android:visibility="gone" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="never" />
+        <include android:id="@id/layout_burst_menu" android:visibility="gone" layout="@layout/f74" />
+        <include android:id="@id/layout_watermark_standard" android:visibility="gone" layout="@layout/f83" />
+        <include android:id="@id/layout_shutter_style_menu" android:visibility="gone" layout="@layout/equ" />
+        <include android:id="@id/layout_watermark_simple" android:visibility="gone" layout="@layout/f6r" />
+        <com.android.camera2.compat.theme.custom.mm.top.TopExpendViewMM android:id="@id/top_menu_expand_view" android:focusable="false" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</FrameLayout>

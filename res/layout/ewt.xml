@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/manually_item_layout" android:layout_width="@dimen/dli" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.android.camera.ui.StrokeMarqueeTextView android:textSize="@dimen/ciq" android:textColor="@color/white" android:id="@id/pic_style_key" android:layout_width="fill_parent" android:layout_height="wrap_content" android:importantForAccessibility="no" android:textDirection="locale" app:ap1="@dimen/bae" />
+    <com.android.camera.ui.StrokeAdaptiveTextView android:textSize="@dimen/cit" android:textColor="@color/white" android:id="@id/pic_style_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" android:textDirection="ltr" app:ap1="@dimen/bae" />
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="bottom|center" android:id="@id/tip_base_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:gravity="bottom" android:layout_gravity="center_vertical" android:id="@id/tip_image" android:background="@null" android:focusable="false" android:layout_width="@dimen/dmg" android:layout_height="@dimen/dmg" android:src="@drawable/ic_vector_night_tip_cv" android:scaleType="center" android:contentDescription="@null" />
+    <com.android.camera.ui.StrokeAdaptiveTextView android:textSize="@dimen/b_9" android:textStyle="bold" android:textColor="@color/bottom_tip_selected_color" android:layout_gravity="end" android:id="@id/tip_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/b_8" android:singleLine="true" android:includeFontPadding="false" android:layout_marginEnd="@dimen/b_7" android:fontFeatureSettings="tnum" app:ap0="@color/alpha24_black" app:ap1="@dimen/bae" />
+</FrameLayout>

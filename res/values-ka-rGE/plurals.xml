@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f8j">
+        <item quantity="other">1 საათის წინ</item>
+        <item quantity="one">1 საათის წინ</item>
+    </plurals>
+    <plurals name="f8k">
+        <item quantity="other">%d საათის წინ</item>
+        <item quantity="one">%d საათის წინ</item>
+    </plurals>
+    <plurals name="f8l">
+        <item quantity="other">ნახევარი საათის წინ</item>
+        <item quantity="one">ნახევარი საათის წინ</item>
+    </plurals>
+    <plurals name="f8m">
+        <item quantity="other">%d საათში</item>
+        <item quantity="one">%d საათში</item>
+    </plurals>
+    <plurals name="f8n">
+        <item quantity="other">ნახევარ საათში</item>
+        <item quantity="one">ნახევარ საათში</item>
+    </plurals>
+    <plurals name="f8o">
+        <item quantity="other">დაუყოვნებლივ</item>
+        <item quantity="one">დაუყოვნებლივ</item>
+    </plurals>
+    <plurals name="f8p">
+        <item quantity="other">%d წუთში</item>
+        <item quantity="one">%d წუთში</item>
+    </plurals>
+    <plurals name="f8q">
+        <item quantity="other">ამ წუთას</item>
+        <item quantity="one">ამ წუთას</item>
+    </plurals>
+    <plurals name="f8r">
+        <item quantity="other">%d წუთის წინ</item>
+        <item quantity="one">%d წუთის წინ</item>
+    </plurals>
+    <plurals name="f8s">
+        <item quantity="other">%d წამიანი ტაიმერი ღამის რეჟიმისთვის</item>
+        <item quantity="one">%d წამიანი ტაიმერი ღამის რეჟიმისთვის</item>
+    </plurals>
+    <plurals name="f8t">
+        <item quantity="other">ფოკუსირებულია. %d სახეები გამოვლინდა</item>
+        <item quantity="one">ფოკუსირებულია. %d სახე გამოვლინდა</item>
+    </plurals>
+    <plurals name="f8u">
+        <item quantity="other">%d ფოტო დუბლირებულიდან</item>
+        <item quantity="one">%d ფოტო დუბლირებულიდან</item>
+    </plurals>
+    <plurals name="f8v">
+        <item quantity="other">ინტერვალი: %d წამი</item>
+        <item quantity="one">ინტერვალი: %d წამი</item>
+    </plurals>
+    <plurals name="f8w">
+        <item quantity="other">ხანგრძლივობა: %d წამი</item>
+        <item quantity="one">ხანგრძლივობა: %d წამი</item>
+    </plurals>
+    <plurals name="f8x">
+        <item quantity="other">შეყვანილია %d სიმბოლო.</item>
+        <item quantity="one">შეყვანილია %d სიმბოლო.</item>
+    </plurals>
+    <plurals name="f8y">
+        <item quantity="other">შეიყვანეთ %d-მდე სიმბოლო.</item>
+        <item quantity="one">შეიყვანეთ %d-მდე სიმბოლო.</item>
+    </plurals>
+    <plurals name="f8z">
+        <item quantity="other">შეგიძლიათ დააკავშიროთ %d-მდე კამერა იმავე ქსელში</item>
+        <item quantity="one">შეგიძლიათ დააკავშიროთ %d-მდე კამერა იმავე ქსელში</item>
+    </plurals>
+    <plurals name="f90">
+        <item quantity="other">შეგიძლიათ დააკავშიროთ %d-მდე მონიტორი იმავე ქსელში</item>
+        <item quantity="one">შეგიძლიათ დააკავშიროთ %d-მდე მონიტორი იმავე ქსელში</item>
+    </plurals>
+    <plurals name="f91">
+        <item quantity="other">ამ მომენტში თქვენ შეგიძლიათ შექმნა %d-მდე კლონის.</item>
+        <item quantity="one">ამ მომენტში თქვენ შეგიძლიათ შექმნა %d-მდე კლონის.</item>
+    </plurals>
+    <plurals name="f92">
+        <item quantity="other">&lt;Data>კამერასთან დაკავშირება ვერ ხერხდება.&lt;br>ეს აპლიკაცია დაიხურება&lt;font color=#FFCE16>&lt;b>%1$d წამში&lt;/b>&lt;/font>. ამის შემდეგ, დაელოდეთ რამდენიმე წუთი და კიდევ სცადეთ.&lt;/Data></item>
+        <item quantity="one">&lt;Data>კამერასთან დაკავშირება ვერ ხერხდება.&lt;br>ეს აპლიკაცია დაიხურება&lt;font color=#FFCE16>&lt;b>%1$d წამში&lt;/b>&lt;/font>. ამის შემდეგ, დაელოდეთ რამდენიმე წუთი და კიდევ სცადეთ.&lt;/Data></item>
+    </plurals>
+    <plurals name="f93">
+        <item quantity="other">&lt;Data>ეს მოწყობილობა ძალიან გაცხელდა.&lt;br>ეს აპლიკაცია დაიხურება&lt;font color=#FFCE16>&lt;b>%1$d წამში&lt;/b>&lt;/font>. მიმდინარე პროგრესი შეინახება ავტომატურად.&lt;/Data></item>
+        <item quantity="one">&lt;Data>ეს მოწყობილობა ძალიან გაცხელდა.&lt;br>ეს აპლიკაცია დაიხურება&lt;font color=#FFCE16>&lt;b>%1$d წამში&lt;/b>&lt;/font>. მიმდინარე პროგრესი შეინახება ავტომატურად.&lt;/Data></item>
+    </plurals>
+    <plurals name="f94">
+        <item quantity="other">&lt;Data>კამერის ვერსია, რომელსაც იყენებთ, არ არის თავსებადი თქვენი მოწყობილობის მოდელთან.&lt;br>აპლიკაცია დაიხურება &lt;font color=#FFCE16>&lt;b>%1$dწმ-ში&lt;/b>&lt;/font>. წაშალეთ კამერის განახლებები და კიდევ სცადეთ.&lt;/Data></item>
+        <item quantity="one">&lt;Data>კამერის ვერსია, რომელსაც იყენებთ, არ არის თავსებადი თქვენი მოწყობილობის მოდელთან.&lt;br>აპლიკაცია დაიხურება &lt;font color=#FFCE16>&lt;b>%1$dწმ-ში&lt;/b>&lt;/font>. წაშალეთ კამერის განახლებები და კიდევ სცადეთ.&lt;/Data></item>
+    </plurals>
+    <plurals name="f97">
+        <item quantity="other">%1$d წთ</item>
+        <item quantity="one">%1$d წთ</item>
+    </plurals>
+    <plurals name="f98">
+        <item quantity="other">%1$d წმ</item>
+        <item quantity="one">%1$d წმ</item>
+    </plurals>
+    <plurals name="f99">
+        <item quantity="other">ჩართულია ტაიმერი (%1$d წმ). ფოტოები გადაეცემა ამ მოწყობილობას.</item>
+        <item quantity="one">ჩართულია ტაიმერი (%1$d წმ). ფოტოები გადაეცემა ამ მოწყობილობას.</item>
+    </plurals>
+    <plurals name="f9_">
+        <item quantity="other">ნახევარი საათის წინ</item>
+        <item quantity="one">ნახევარი საათის წინ</item>
+    </plurals>
+    <plurals name="f9a">
+        <item quantity="other">1 საათში</item>
+        <item quantity="one">1 საათში</item>
+    </plurals>
+    <plurals name="f9b">
+        <item quantity="other">ნახევარ საათში</item>
+        <item quantity="one">ნახევარ საათში</item>
+    </plurals>
+    <plurals name="f9c">
+        <item quantity="other">დაუყოვნებლივ</item>
+        <item quantity="one">დაუყოვნებლივ</item>
+    </plurals>
+    <plurals name="f9d">
+        <item quantity="other">%d წუთში</item>
+        <item quantity="one">1 წუთში</item>
+    </plurals>
+    <plurals name="f9e">
+        <item quantity="other">ახლა</item>
+        <item quantity="one">ახლა</item>
+    </plurals>
+    <plurals name="f9f">
+        <item quantity="other">წავშალო %1$d მონახაზი?</item>
+        <item quantity="one">წავშალო %1$d მონახაზი?</item>
+    </plurals>
+    <plurals name="f9g">
+        <item quantity="other">დაამატეთ %d-მდე ფილტრი</item>
+        <item quantity="one">დაამატეთ %d-მდე ფილტრი</item>
+    </plurals>
+    <plurals name="f9h">
+        <item quantity="other">%d ერთეული მონიშნულია</item>
+        <item quantity="one">%d ერთეული მონიშნულია</item>
+    </plurals>
+    <plurals name="f9k">
+        <item quantity="other">%d წუთის წინ</item>
+        <item quantity="one">1 წუთის წინ</item>
+    </plurals>
+    <plurals name="f9l">
+        <item quantity="other">%dწმ</item>
+        <item quantity="one">%dწმ</item>
+    </plurals>
+    <plurals name="f9m">
+        <item quantity="other">%1$s წთ</item>
+        <item quantity="one">%1$s წთ</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">ჩაწერეთ %d წამი</item>
+        <item quantity="one">ჩაწერეთ %d წამი</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">თქვენ შეგიძლიათ გადაიღოთ გაყინული ვიდოები მხოლოდ %d საგანი.</item>
+        <item quantity="one">თქვენ შეგიძლიათ გადაიღოთ გაყინული ვიდოები მხოლოდ %d საგანი.</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">%1$s ფოტო</item>
+        <item quantity="one">%1$s ფოტო</item>
+    </plurals>
+</resources>

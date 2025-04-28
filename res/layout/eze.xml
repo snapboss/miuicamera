@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <miuix.recyclerview.widget.RecyclerView android:id="@id/share_recyclerview" android:layout_width="fill_parent" android:layout_height="@dimen/eec" android:layout_marginHorizontal="@dimen/bo6" app:a6x="parent" app:a7g="parent" app:a7k="parent" />
+    <com.xiaomi.microfilm.vlog.vv.page.PageIndicatorView android:id="@id/share_recyclerview_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" app:a6x="@id/share_recyclerview" app:a7g="@id/share_recyclerview" app:a7j="@id/share_recyclerview" />
+</androidx.constraintlayout.widget.ConstraintLayout>

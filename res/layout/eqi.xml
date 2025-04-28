@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:orientation="horizontal" android:id="@id/show_time_mark_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" app:a7k="parent" />
+    <com.android.camera.ui.AdaptiveTextView android:textSize="@dimen/efy" android:textColor="@color/white" android:id="@id/show_time_tick_text" android:layout_width="@dimen/eg1" android:layout_height="fill_parent" android:text="@string/hkc" app:a6r="@id/show_time_mark_layout" app:a7g="@id/show_time_mark_layout" app:a7k="@id/show_time_mark_layout" app:aad="1.0" />
+    <FrameLayout android:orientation="horizontal" android:id="@id/show_location_mark_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/eft" app:a7j="@id/show_time_mark_layout" />
+    <com.android.camera.ui.AdaptiveTextView android:textSize="@dimen/efy" android:textColor="@color/white" android:ellipsize="marquee" android:id="@id/show_location_tick_text" android:layout_width="@dimen/eg1" android:layout_height="fill_parent" android:text="@string/hka" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" app:a6r="@id/show_location_mark_layout" app:a7g="@id/show_location_mark_layout" app:a7k="@id/show_location_mark_layout" app:aad="1.0" />
+    <ScrollView android:orientation="horizontal" android:id="@id/show_description_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/e51" android:layout_marginBottom="@dimen/e4a" app:a7j="@id/show_location_mark_layout">
+        <TextView android:textSize="@dimen/efy" android:textColor="@color/white" android:layout_gravity="start" android:id="@id/show_description_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:alpha="0.5" android:layout_marginStart="@dimen/e4o" android:layout_marginEnd="@dimen/e4o" />
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

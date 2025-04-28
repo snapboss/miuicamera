@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/recom_top_tip_bg_color" />
+    <corners android:topLeftRadius="@dimen/df7" android:topRightRadius="@dimen/df7" android:bottomLeftRadius="@dimen/df7" android:bottomRightRadius="@dimen/df7" />
+</shape>

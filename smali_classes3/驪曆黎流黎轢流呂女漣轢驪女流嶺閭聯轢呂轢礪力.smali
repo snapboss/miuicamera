@@ -1,0 +1,1019 @@
+.class public L驪曆黎流黎轢流呂女漣轢驪女流嶺閭聯轢呂轢礪力;
+.super L啓啟啝唞啝啙唞啔啕商啙啓啕唞啂啕啔啝啙唞啳啟啝啝啟啞啾啟啄啕啯啀啂啟;
+.source "SourceFile"
+
+
+# static fields
+.field public static final c:[I
+
+.field public static final d:[I
+
+
+# direct methods
+.method public static constructor <clinit>()V
+    .locals 2
+
+    const/4 v0, 0x5
+
+    new-array v1, v0, [I
+
+    fill-array-data v1, :array_0
+
+    sput-object v1, L驪曆黎流黎轢流呂女漣轢驪女流嶺閭聯轢呂轢礪力;->c:[I
+
+    new-array v0, v0, [I
+
+    fill-array-data v0, :array_1
+
+    sput-object v0, L驪曆黎流黎轢流呂女漣轢驪女流嶺閭聯轢呂轢礪力;->d:[I
+
+    return-void
+
+    :array_0
+    .array-data 4
+        0x0
+        0x0
+        0x0
+        0x0
+        -0x5
+    .end array-data
+
+    :array_1
+    .array-data 4
+        0x0
+        0x0
+        0x0
+        0x0
+        -0x5
+    .end array-data
+.end method
+
+.method public constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, L啓啟啝唞啝啙唞啔啕商啙啓啕唞啂啕啔啝啙唞啳啟啝啝啟啞啾啟啄啕啯啀啂啟;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final A2()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final B5()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final C1()Ljava/lang/String;
+    .locals 0
+
+    const-string p0, "\u1f3a\u1f27\u1f3e\u1f3c"
+
+    invoke-static {p0}, Lcom/android/camera/effect/b;->B(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object p0
+
+    return-object p0
+.end method
+
+.method public final C3()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final C7()V
+    .locals 0
+
+    return-void
+.end method
+
+.method public final D3()Z
+    .locals 0
+
+    const/4 p0, 0x0
+
+    return p0
+.end method
+
+.method public final E()Ljava/lang/String;
+    .locals 0
+
+    const-string p0, "\u1f38\u1f27\u1f3d"
+
+    invoke-static {p0}, Lcom/android/camera/effect/b;->B(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object p0
+
+    return-object p0
+.end method
+
+.method public final F()[I
+    .locals 0
+
+    const/16 p0, 0x8
+
+    new-array p0, p0, [I
+
+    fill-array-data p0, :array_0
+
+    return-object p0
+
+    :array_0
+    .array-data 4
+        0x400000
+        0x1e8480
+        0x400100
+        0x2191c0
+        0x1000000
+        0x0
+        0xc00000
+        0x0
+    .end array-data
+.end method
+
+.method public final F4()Z
+    .locals 0
+
+    const/4 p0, 0x0
+
+    return p0
+.end method
+
+.method public final H0()S
+    .locals 0
+
+    sget-object p0, L㛴㛸㛺㚹㛺㛾㚹㛴㛸㛹㛱㛾㛰㛳㛶㛣㛶㚹㛄㛻㛸㛠㛚㛸㛣㛾㛸㛹㛒㛹㛢㛺;->c:L㛴㛸㛺㚹㛺㛾㚹㛴㛸㛹㛱㛾㛰㛳㛶㛣㛶㚹㛄㛻㛸㛠㛚㛸㛣㛾㛸㛹㛒㛹㛢㛺;
+
+    iget-short p0, p0, L㛴㛸㛺㚹㛺㛾㚹㛴㛸㛹㛱㛾㛰㛳㛶㛣㛶㚹㛄㛻㛸㛠㛚㛸㛣㛾㛸㛹㛒㛹㛢㛺;->a:S
+
+    return p0
+.end method
+
+.method public final H2()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final I4()Z
+    .locals 0
+
+    const/4 p0, 0x0
+
+    return p0
+.end method
+
+.method public final I7()V
+    .locals 0
+
+    return-void
+.end method
+
+.method public final J0()Ljava/lang/String;
+    .locals 0
+
+    const-string p0, "\u1f3f\u1f33\u1f38\u1f3f\u1f3a\u1f3b\u1f39\u1f71\u1f38\u1f3b\u1f3b\u1f31\u1f31"
+
+    invoke-static {p0}, Lcom/android/camera/effect/b;->B(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object p0
+
+    return-object p0
+.end method
+
+.method public final J6()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final J7()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final K2()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final K6()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final L2()Z
+    .locals 0
+
+    const/4 p0, 0x0
+
+    return p0
+.end method
+
+.method public final L4()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final M1()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final M2()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final N2()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final N3()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final O4()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final P()I
+    .locals 0
+
+    const/4 p0, 0x3
+
+    return p0
+.end method
+
+.method public final P6()Z
+    .locals 0
+
+    const/4 p0, 0x0
+
+    return p0
+.end method
+
+.method public final Q0()I
+    .locals 0
+
+    const/4 p0, 0x6
+
+    return p0
+.end method
+
+.method public final Q6()Z
+    .locals 0
+
+    const/4 p0, 0x0
+
+    return p0
+.end method
+
+.method public final Q7()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final R6()I
+    .locals 0
+
+    const/4 p0, 0x2
+
+    return p0
+.end method
+
+.method public final S2()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final S7()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final T5()I
+    .locals 0
+
+    const/16 p0, 0x22
+
+    return p0
+.end method
+
+.method public final T7()Z
+    .locals 0
+
+    const/4 p0, 0x0
+
+    return p0
+.end method
+
+.method public final U0()I
+    .locals 0
+
+    const/16 p0, 0x320
+
+    return p0
+.end method
+
+.method public final W0()I
+    .locals 0
+
+    const/16 p0, 0x384
+
+    return p0
+.end method
+
+.method public final W3()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final Z3()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final b()Z
+    .locals 0
+
+    const/4 p0, 0x0
+
+    return p0
+.end method
+
+.method public final c()Landroid/util/SparseArray;
+    .locals 4
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "()",
+            "Landroid/util/SparseArray<",
+            "[",
+            "Ljava/lang/String;",
+            ">;"
+        }
+    .end annotation
+
+    new-instance p0, Landroid/util/SparseArray;
+
+    const/4 v0, 0x2
+
+    invoke-direct {p0, v0}, Landroid/util/SparseArray;-><init>(I)V
+
+    new-array v1, v0, [Ljava/lang/String;
+
+    const-string v2, "\u1f5b\u1f4c\u1f4d\u1f44\u1f40"
+
+    invoke-static {v2}, Lcom/android/camera/effect/b;->B(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v2
+
+    const/4 v3, 0x0
+
+    aput-object v2, v1, v3
+
+    const-string v2, "\u1f47\u1f66\u1f7d\u1f6c\u1f29\u1f38\u1f3d\u1f29\u1f59\u1f7b\u1f66"
+
+    invoke-static {v2}, Lcom/android/camera/effect/b;->B(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v2
+
+    const/4 v3, 0x1
+
+    aput-object v2, v1, v3
+
+    invoke-virtual {p0, v3, v1}, Landroid/util/SparseArray;->put(ILjava/lang/Object;)V
+
+    invoke-virtual {p0, v0, v1}, Landroid/util/SparseArray;->put(ILjava/lang/Object;)V
+
+    return-object p0
+.end method
+
+.method public final d0()Ljava/lang/String;
+    .locals 0
+
+    const-string p0, "\u1f3b\u1f27\u1f31"
+
+    invoke-static {p0}, Lcom/android/camera/effect/b;->B(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object p0
+
+    return-object p0
+.end method
+
+.method public final d7()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final e0()S
+    .locals 0
+
+    sget-object p0, L㛴㛸㛺㚹㛺㛾㚹㛴㛸㛹㛱㛾㛰㛳㛶㛣㛶㚹㛄㛻㛸㛠㛚㛸㛣㛾㛸㛹㛒㛹㛢㛺;->b:L㛴㛸㛺㚹㛺㛾㚹㛴㛸㛹㛱㛾㛰㛳㛶㛣㛶㚹㛄㛻㛸㛠㛚㛸㛣㛾㛸㛹㛒㛹㛢㛺;
+
+    iget-short p0, p0, L㛴㛸㛺㚹㛺㛾㚹㛴㛸㛹㛱㛾㛰㛳㛶㛣㛶㚹㛄㛻㛸㛠㛚㛸㛣㛾㛸㛹㛒㛹㛢㛺;->a:S
+
+    return p0
+.end method
+
+.method public final e1(Z)[I
+    .locals 0
+
+    if-eqz p1, :cond_0
+
+    sget-object p0, L驪曆黎流黎轢流呂女漣轢驪女流嶺閭聯轢呂轢礪力;->c:[I
+
+    goto :goto_0
+
+    :cond_0
+    sget-object p0, L驪曆黎流黎轢流呂女漣轢驪女流嶺閭聯轢呂轢礪力;->d:[I
+
+    :goto_0
+    return-object p0
+.end method
+
+.method public final e4()Z
+    .locals 0
+
+    const/4 p0, 0x0
+
+    return p0
+.end method
+
+.method public final f4()Z
+    .locals 0
+
+    sget-boolean p0, Lgc/c;->d:Z
+
+    xor-int/lit8 p0, p0, 0x1
+
+    return p0
+.end method
+
+.method public final h2()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final h6()I
+    .locals 0
+
+    const/16 p0, 0xa
+
+    return p0
+.end method
+
+.method public final i()I
+    .locals 0
+
+    const/4 p0, 0x2
+
+    return p0
+.end method
+
+.method public final i2()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final j2()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final k()Ljava/lang/String;
+    .locals 0
+
+    const-string p0, "\u1f64\u1f6f\u1f67\u1f7b\u1f33\u1f38"
+
+    invoke-static {p0}, Lcom/android/camera/effect/b;->B(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object p0
+
+    return-object p0
+.end method
+
+.method public final k1()I
+    .locals 0
+
+    const/4 p0, 0x6
+
+    return p0
+.end method
+
+.method public final k3()Z
+    .locals 0
+
+    const/4 p0, 0x0
+
+    return p0
+.end method
+
+.method public final k5()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final l1()I
+    .locals 0
+
+    const/4 p0, -0x1
+
+    return p0
+.end method
+
+.method public final m3()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final m4()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final m5()Z
+    .locals 0
+
+    const/4 p0, 0x0
+
+    return p0
+.end method
+
+.method public final n1()Landroid/util/SparseArray;
+    .locals 11
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "()",
+            "Landroid/util/SparseArray<",
+            "[",
+            "Ljava/lang/Float;",
+            ">;"
+        }
+    .end annotation
+
+    new-instance p0, Landroid/util/SparseArray;
+
+    invoke-direct {p0}, Landroid/util/SparseArray;-><init>()V
+
+    const/4 v0, 0x4
+
+    new-array v1, v0, [Ljava/lang/Float;
+
+    const v2, 0x3f19999a    # 0.6f
+
+    invoke-static {v2}, Ljava/lang/Float;->valueOf(F)Ljava/lang/Float;
+
+    move-result-object v2
+
+    const/4 v3, 0x0
+
+    aput-object v2, v1, v3
+
+    const/high16 v4, 0x3f800000    # 1.0f
+
+    invoke-static {v4}, Ljava/lang/Float;->valueOf(F)Ljava/lang/Float;
+
+    move-result-object v4
+
+    const/4 v5, 0x1
+
+    aput-object v4, v1, v5
+
+    const/high16 v6, 0x40000000    # 2.0f
+
+    invoke-static {v6}, Ljava/lang/Float;->valueOf(F)Ljava/lang/Float;
+
+    move-result-object v6
+
+    const/4 v7, 0x2
+
+    aput-object v6, v1, v7
+
+    const/high16 v8, 0x40800000    # 4.0f
+
+    invoke-static {v8}, Ljava/lang/Float;->valueOf(F)Ljava/lang/Float;
+
+    move-result-object v8
+
+    const/4 v9, 0x3
+
+    aput-object v8, v1, v9
+
+    const/16 v10, 0xa3
+
+    invoke-virtual {p0, v10, v1}, Landroid/util/SparseArray;->put(ILjava/lang/Object;)V
+
+    new-array v0, v0, [Ljava/lang/Float;
+
+    aput-object v2, v0, v3
+
+    aput-object v4, v0, v5
+
+    aput-object v6, v0, v7
+
+    aput-object v8, v0, v9
+
+    const/16 v1, 0xa2
+
+    invoke-virtual {p0, v1, v0}, Landroid/util/SparseArray;->put(ILjava/lang/Object;)V
+
+    new-array v0, v7, [Ljava/lang/Float;
+
+    aput-object v2, v0, v3
+
+    aput-object v4, v0, v5
+
+    const/16 v1, 0xad
+
+    invoke-virtual {p0, v1, v0}, Landroid/util/SparseArray;->put(ILjava/lang/Object;)V
+
+    new-array v0, v5, [Ljava/lang/Float;
+
+    aput-object v4, v0, v3
+
+    const/16 v1, 0xac
+
+    invoke-virtual {p0, v1, v0}, Landroid/util/SparseArray;->put(ILjava/lang/Object;)V
+
+    new-array v0, v7, [Ljava/lang/Float;
+
+    aput-object v4, v0, v3
+
+    aput-object v6, v0, v5
+
+    const/16 v1, 0xab
+
+    invoke-virtual {p0, v1, v0}, Landroid/util/SparseArray;->put(ILjava/lang/Object;)V
+
+    return-object p0
+.end method
+
+.method public final n3()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final n5()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final o5()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final p7()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final q1()I
+    .locals 0
+
+    const/4 p0, 0x3
+
+    return p0
+.end method
+
+.method public final q3()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final q6()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final s1()Landroid/util/SparseArray;
+    .locals 17
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "()",
+            "Landroid/util/SparseArray<",
+            "Landroid/util/SparseArray<",
+            "[",
+            "Ljava/lang/Float;",
+            ">;>;"
+        }
+    .end annotation
+
+    new-instance v0, Landroid/util/SparseArray;
+
+    invoke-direct {v0}, Landroid/util/SparseArray;-><init>()V
+
+    new-instance v1, Landroid/util/SparseArray;
+
+    invoke-direct {v1}, Landroid/util/SparseArray;-><init>()V
+
+    new-instance v2, Landroid/util/SparseArray;
+
+    invoke-direct {v2}, Landroid/util/SparseArray;-><init>()V
+
+    const/4 v3, 0x6
+
+    new-array v4, v3, [Ljava/lang/Float;
+
+    const v5, 0x3f19999a    # 0.6f
+
+    invoke-static {v5}, Ljava/lang/Float;->valueOf(F)Ljava/lang/Float;
+
+    move-result-object v5
+
+    const/4 v6, 0x0
+
+    aput-object v5, v4, v6
+
+    const/high16 v7, 0x3f800000    # 1.0f
+
+    invoke-static {v7}, Ljava/lang/Float;->valueOf(F)Ljava/lang/Float;
+
+    move-result-object v7
+
+    const/4 v8, 0x1
+
+    aput-object v7, v4, v8
+
+    const/high16 v9, 0x40000000    # 2.0f
+
+    invoke-static {v9}, Ljava/lang/Float;->valueOf(F)Ljava/lang/Float;
+
+    move-result-object v9
+
+    const/4 v10, 0x2
+
+    aput-object v9, v4, v10
+
+    const/high16 v11, 0x40800000    # 4.0f
+
+    invoke-static {v11}, Ljava/lang/Float;->valueOf(F)Ljava/lang/Float;
+
+    move-result-object v11
+
+    const/4 v12, 0x3
+
+    aput-object v11, v4, v12
+
+    const/high16 v13, 0x41200000    # 10.0f
+
+    invoke-static {v13}, Ljava/lang/Float;->valueOf(F)Ljava/lang/Float;
+
+    move-result-object v13
+
+    const/4 v14, 0x4
+
+    aput-object v13, v4, v14
+
+    const/high16 v15, 0x41f00000    # 30.0f
+
+    invoke-static {v15}, Ljava/lang/Float;->valueOf(F)Ljava/lang/Float;
+
+    move-result-object v15
+
+    const/16 v16, 0x5
+
+    aput-object v15, v4, v16
+
+    invoke-virtual {v1, v6, v4}, Landroid/util/SparseArray;->put(ILjava/lang/Object;)V
+
+    const/4 v4, 0x7
+
+    new-array v4, v4, [Ljava/lang/Float;
+
+    aput-object v5, v4, v6
+
+    aput-object v7, v4, v8
+
+    aput-object v9, v4, v10
+
+    aput-object v11, v4, v12
+
+    const/high16 v5, 0x40a00000    # 5.0f
+
+    invoke-static {v5}, Ljava/lang/Float;->valueOf(F)Ljava/lang/Float;
+
+    move-result-object v5
+
+    aput-object v5, v4, v14
+
+    aput-object v13, v4, v16
+
+    const/high16 v5, 0x41700000    # 15.0f
+
+    invoke-static {v5}, Ljava/lang/Float;->valueOf(F)Ljava/lang/Float;
+
+    move-result-object v5
+
+    aput-object v5, v4, v3
+
+    invoke-virtual {v2, v6, v4}, Landroid/util/SparseArray;->put(ILjava/lang/Object;)V
+
+    const/16 v3, 0xa3
+
+    invoke-virtual {v0, v3, v1}, Landroid/util/SparseArray;->put(ILjava/lang/Object;)V
+
+    const/16 v1, 0xa2
+
+    invoke-virtual {v0, v1, v2}, Landroid/util/SparseArray;->put(ILjava/lang/Object;)V
+
+    return-object v0
+.end method
+
+.method public final s7()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final t2()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final t4()Z
+    .locals 0
+
+    const/4 p0, 0x0
+
+    return p0
+.end method
+
+.method public final t6()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final v()I
+    .locals 0
+
+    const/16 p0, -0xa5a
+
+    return p0
+.end method
+
+.method public final v3()Z
+    .locals 0
+
+    const/4 p0, 0x0
+
+    return p0
+.end method
+
+.method public final v4()Z
+    .locals 0
+
+    const/4 p0, 0x0
+
+    return p0
+.end method
+
+.method public final w()I
+    .locals 0
+
+    const/16 p0, -0x28a
+
+    return p0
+.end method
+
+.method public final w7()Z
+    .locals 0
+
+    const/4 p0, 0x0
+
+    return p0
+.end method
+
+.method public final x()I
+    .locals 0
+
+    const/16 p0, -0x1068
+
+    return p0
+.end method
+
+.method public final x4()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method
+
+.method public final z7()Z
+    .locals 0
+
+    const/4 p0, 0x1
+
+    return p0
+.end method

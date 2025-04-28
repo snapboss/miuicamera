@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/e28" />
+    <padding android:left="@dimen/e21" android:top="@dimen/e21" android:right="@dimen/e21" android:bottom="@dimen/e21" />
+    <stroke android:width="@dimen/e21" android:color="@color/audio_map_stroke_cv" />
+    <solid android:color="@color/audio_map_background_cv" />
+</shape>

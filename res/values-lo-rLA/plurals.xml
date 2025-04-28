@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f8j">
+        <item quantity="other">1 ຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
+    </plurals>
+    <plurals name="f8k">
+        <item quantity="other">%d ຊົ່ວໂມງກ່ອນ</item>
+    </plurals>
+    <plurals name="f8l">
+        <item quantity="other">ເຄິ່ງຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
+    </plurals>
+    <plurals name="f8m">
+        <item quantity="other">ໃນ %d ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="f8n">
+        <item quantity="other">ພາຍໃນເຄິ່ງຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="f8o">
+        <item quantity="other">ທັນທີ</item>
+    </plurals>
+    <plurals name="f8p">
+        <item quantity="other">ພາຍໃນ %d ນາທີ</item>
+    </plurals>
+    <plurals name="f8q">
+        <item quantity="other">ເມື່ອກີ້​ນີ້</item>
+    </plurals>
+    <plurals name="f8r">
+        <item quantity="other">%d ນາທີກ່ອນ</item>
+    </plurals>
+    <plurals name="f8s">
+        <item quantity="other">ໂມງຕັ້ງເວລາ %d ວິນາທີສຳລັບໂໝດກາງຄືນ</item>
+    </plurals>
+    <plurals name="f8t">
+        <item quantity="other">ໂຟກັສແລ້ວ. ກວດພົບ %d ໃບໜ້າ</item>
+    </plurals>
+    <plurals name="f8u">
+        <item quantity="other">%d ພາບໃນຮູບຖ່າຍຕໍ່ເນື່ອງ</item>
+    </plurals>
+    <plurals name="f8v">
+        <item quantity="other">ຊ່ວງເວລາ: %d ວິນາທີ</item>
+    </plurals>
+    <plurals name="f8w">
+        <item quantity="other">ຊ່ວງເວລາ: %d ວິນາທີ</item>
+    </plurals>
+    <plurals name="f8x">
+        <item quantity="other">ປ້ອນແລ້ວ %d ຕົວອັກສອນ.</item>
+    </plurals>
+    <plurals name="f8y">
+        <item quantity="other">ປ້ອນສູງສຸດ %d ຕົວອັກສອນ.</item>
+    </plurals>
+    <plurals name="f8z">
+        <item quantity="other">ທ່ານສາມາດເຊື່ອມຕໍ່ໄດ້ເຖິງ %d ກ້ອງກັບເຄືອຂ່າຍດຽວກັນ</item>
+    </plurals>
+    <plurals name="f90">
+        <item quantity="other">ທ່ານສາມາດເຊື່ອມຕໍ່ໄດ້ເຖິງ %d ຈໍກັບເຄືອຂ່າຍດຽວກັນ</item>
+    </plurals>
+    <plurals name="f91">
+        <item quantity="other">ທ່ານສາມາດສ້າງໄດ້ສູງສຸດ %d ໂຄລນໃນໜຶ່ງຄັ້ງ.</item>
+    </plurals>
+    <plurals name="f92">
+        <item quantity="other">&lt;Data>ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບກ້ອງໄດ້.&lt;br>ແອັບນີ້ຈະຖືກປິດໃນ &lt;font color=#FFCE16>&lt;b>%1$d ວິນາທີ&lt;/b>&lt;/font>. ຫຼັງຈາກນີ້, ລໍຖ້າໜຶ່ງຫຼືສອງນາທີແລະລອງອີກຄັ້ງ.&lt;/Data></item>
+    </plurals>
+    <plurals name="f93">
+        <item quantity="other">&lt;Data>ອຸປະກອນນີ້ຮ້ອນເກີນໄປໃນຕອນນີ້.&lt;br>ແອັບຈະຖືກປິດໃນ &lt;font color=#FFCE16>&lt;b>%1$d ວິນາທີ&lt;/b>&lt;/font>. ຄວາມຄືບໜ້າປັດຈຸບັນຖືກບັນທຶກໂດຍອັດຕະໂນມັດ.&lt;/Data></item>
+    </plurals>
+    <plurals name="f94">
+        <item quantity="other">&lt;Data>ເວີຊັ່ນກ້ອງຖ່າຍຮູບທີ່ທ່ານກຳລັງໃຊ້ນັ້ນບໍ່ເຂົ້າກັນໄດ້ກັບໂມເດວອຸປະກອນຂອງທ່ານ.&lt;br>Tແອັບຈະຖືກປິດໃນ &lt;font color=#FFCE16>&lt;b>%1$d ວິ&lt;/b>&lt;/font>. ຖອນການຕິດຕັ້ງການອັບເດດກ້ອງຖ່າຍຮູບແລະລອງອີກຄັ້ງ.&lt;/Data></item>
+    </plurals>
+    <plurals name="f97">
+        <item quantity="other">%1$d ນາທີ</item>
+    </plurals>
+    <plurals name="f98">
+        <item quantity="other">%1$d ວິ</item>
+    </plurals>
+    <plurals name="f99">
+        <item quantity="other">ເປີດໂຕຈັບເວລາ (%1$d ວິນາທີ). ຮູບພາບຈະຖືກໂອນໄປທີ່ອຸປະກອນນີ້.</item>
+    </plurals>
+    <plurals name="f9_">
+        <item quantity="other">ເຄິ່ງຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
+    </plurals>
+    <plurals name="f9a">
+        <item quantity="other">ພາຍໃນ 1 ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="f9b">
+        <item quantity="other">ພາຍໃນເຄິ່ງຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="f9c">
+        <item quantity="other">ທັນທີ</item>
+    </plurals>
+    <plurals name="f9d">
+        <item quantity="other">ໃນ %d ນາທີ</item>
+    </plurals>
+    <plurals name="f9e">
+        <item quantity="other">ເມື່ອກີ້​ນີ້</item>
+    </plurals>
+    <plurals name="f9f">
+        <item quantity="other">ລົບ %1$d ​ໂຄງຮ່າງບໍ?</item>
+    </plurals>
+    <plurals name="f9g">
+        <item quantity="other">ເພີ່ມສູງສຸດ %d ຄ່າທີ່ຕັ້ງໄວ້</item>
+    </plurals>
+    <plurals name="f9h">
+        <item quantity="other">ເລືອກ %d ລາຍການແລ້ວ</item>
+    </plurals>
+    <plurals name="f9k">
+        <item quantity="other">%d ນາທີຜ່ານມາ</item>
+    </plurals>
+    <plurals name="f9l">
+        <item quantity="other">%dວິ</item>
+    </plurals>
+    <plurals name="f9m">
+        <item quantity="other">%1$s ນາທີ</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">ບັນທຶກ %d ວິນາທີ</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">ທ່ານສາມາດຖ່າຍວິດີໂອແຊ່ແຂງເວລາໄດ້ສູງສຸດ %d ວັດຖຸ.</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">%1$s ຮູບພາບ</item>
+    </plurals>
+</resources>

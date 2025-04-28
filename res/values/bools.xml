@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="axs">true</bool>
+    <bool name="axt">true</bool>
+    <bool name="axu">true</bool>
+    <bool name="axv">false</bool>
+    <bool name="axw">true</bool>
+    <bool name="axx">true</bool>
+    <bool name="axy">false</bool>
+    <bool name="axz">true</bool>
+    <bool name="ay0">true</bool>
+    <bool name="ay1">false</bool>
+    <bool name="ay2">false</bool>
+    <bool name="ay3">false</bool>
+    <bool name="ay4">false</bool>
+    <bool name="ay5">true</bool>
+    <bool name="ay6">true</bool>
+    <bool name="ay7">false</bool>
+    <bool name="ay8">false</bool>
+    <bool name="ay9">false</bool>
+    <bool name="ay_">false</bool>
+</resources>

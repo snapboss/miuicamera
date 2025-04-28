@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:paddingMode="stack"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <padding android:left="@dimen/cwu" android:top="@dimen/cww" android:right="@dimen/cwu" android:bottom="@dimen/cwv" />
+        </shape>
+    </item>
+</layer-list>

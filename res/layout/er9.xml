@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textAppearance="@style/irs" android:textColor="?android:textColorSecondary" android:gravity="start|center" android:paddingLeft="?a92" android:paddingRight="?a93" android:layout_width="fill_parent" android:layout_height="?a90" android:maxLines="1"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

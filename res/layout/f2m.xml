@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.appcompat.internal.app.widget.SearchActionModeView android:id="@id/search_panel" android:layout_width="fill_parent" android:layout_height="@dimen/cwz" android:paddingStart="@dimen/cwu" style="@style/jhn"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/cwy">
+        <TextView android:textSize="@dimen/cwp" android:textColor="?asd" android:gravity="center" android:id="@id/search_text_cancel" android:background="@null" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/gtp" android:fontFamily="sans-serif-medium" android:textDirection="locale" android:layout_marginStart="@dimen/cwn" android:layout_marginEnd="@dimen/cwm" android:layout_alignParentEnd="true" android:paddingHorizontal="@dimen/cwo" />
+        <LinearLayout android:gravity="center_vertical" android:id="@id/search_container" android:background="?abv" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="?abi" android:scaleType="centerInside" android:paddingStart="@dimen/cs9" android:paddingEnd="@dimen/cs8" />
+            <miuix.androidbasewidget.widget.ClearableEditText android:textSize="@dimen/cwt" android:textColorHint="?akm" android:gravity="center_vertical" android:id="@android:id/input" android:background="@null" android:scrollbars="none" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:textDirection="locale" android:paddingStart="0.0dip" app:wv="?q3" />
+        </LinearLayout>
+    </RelativeLayout>
+</miuix.appcompat.internal.app.widget.SearchActionModeView>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/vp_segment_item_root" android:focusable="false" android:layout_width="@dimen/ebi" android:layout_height="@dimen/ebi"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView android:layout_gravity="center" android:id="@id/vp_segment_item_view" android:focusable="false" android:layout_width="@dimen/eb5" android:layout_height="@dimen/eb5" app:mt="@color/vp_segment_item_bg" app:mw="@dimen/eb2" app:mx="0.0dip">
+        <ImageView android:id="@id/dv_segment_cover" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:contentDescription="@null" />
+        <FrameLayout android:id="@id/vp_segment_item_content" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.android.camera.ui.ScrollTextview android:textSize="@dimen/eb4" android:textColor="@color/color_white" android:ellipsize="marquee" android:layout_gravity="center" android:id="@id/vp_segment_duration" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+            <ImageView android:id="@id/vp_long_item_selected_bg" android:background="@color/vp_preview_background_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <ImageView android:layout_gravity="center" android:id="@id/vp_long_item_selected_more" android:padding="@dimen/ebj" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_more_select" android:contentDescription="@null" />
+            <TextView android:textSize="@dimen/eb8" android:layout_gravity="end|bottom|center" android:id="@id/vp_segment_index" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/eb6" android:layout_marginEnd="@dimen/eb7" />
+        </FrameLayout>
+    </androidx.cardview.widget.CardView>
+    <ImageView android:id="@id/vp_item_selected_indicator" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@null" />
+</FrameLayout>

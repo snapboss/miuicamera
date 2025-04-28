@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:elevation="0.0dip" app:mt="@color/transparent" app:mw="@dimen/cpd">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="@dimen/e62" android:layout_height="wrap_content" android:contentDescription="@string/gzf">
+            <ImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/true_colour_intro_main" android:adjustViewBounds="true" />
+            <LinearLayout android:orientation="vertical" android:background="@color/newbie_track_focus_bg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="18.0sp" android:textColor="@color/newbie_track_focus_title" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:layout_width="@dimen/c4s" android:layout_height="wrap_content" android:layout_marginTop="@dimen/e61" android:text="@string/hol" />
+                <TextView android:textSize="14.0sp" android:textColor="@color/newbie_track_focus_context" android:layout_gravity="start" android:layout_width="@dimen/c4s" android:layout_height="wrap_content" android:layout_marginTop="@dimen/e60" android:text="@string/hoi" android:layout_marginStart="@dimen/e5x" android:layout_marginEnd="@dimen/e5x" />
+                <Button android:textSize="15.0sp" android:textColor="@color/newbie_track_focus_button_text" android:layout_gravity="center_horizontal" android:id="@id/btn_goto_setting" android:background="@drawable/shape_round_corner_track_hint" android:layout_width="@dimen/e5u" android:layout_height="@dimen/e5s" android:layout_marginTop="@dimen/e5t" android:layout_marginBottom="@dimen/e5y" android:text="@string/hgp" />
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+    <ImageButton android:layout_gravity="center_horizontal" android:id="@id/btn_cancel" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/e5v" android:src="@drawable/ic_vector_dialog_cancel" android:contentDescription="@string/gze" />
+</LinearLayout>

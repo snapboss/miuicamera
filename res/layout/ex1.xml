@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/btn_back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dmr" android:src="@drawable/ic_vector_close" android:contentDescription="@string/fy9" android:layout_marginStart="@dimen/dms" app:a7a="parent" app:a7k="parent" />
+    <com.android.camera.features.mode.polaroid.ui.ResultImageBgView android:id="@id/result_image_bg" android:padding="@dimen/dmp" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_marginTop="@dimen/dn1" android:contentDescription="@string/fem" app:a6w="2:3" app:a7a="parent" app:a7e="parent" app:a7k="parent" app:a7s="0.806">
+        <ImageView android:layout_gravity="center" android:id="@id/result_image" android:layout_width="0.0dip" android:layout_height="0.0dip" android:scaleType="fitXY" android:adjustViewBounds="true" android:importantForAccessibility="no" app:a6r="parent" app:a6w="3:4" app:a7a="parent" app:a7e="parent" app:a7k="parent" app:a7l="0.4" />
+    </com.android.camera.features.mode.polaroid.ui.ResultImageBgView>
+    <View android:background="@color/polaroid_review_page_color" android:layout_width="fill_parent" android:layout_height="wrap_content" app:a6k="true" app:a6r="parent" app:a7j="@id/result_image_bg" />
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/dpu" android:gravity="center" android:id="@id/print_btn" android:background="@drawable/polaroid_print_btn" android:layout_width="@dimen/dmy" android:layout_height="@dimen/dmu" android:layout_marginBottom="@dimen/dmt" android:text="@string/hrs" android:shadowColor="@color/white" app:a6r="parent" app:a7a="parent" app:a7e="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,200 @@
+.class public final synthetic Lba/o;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Ljava/util/function/Consumer;
+
+
+# instance fields
+.field public final synthetic a:I
+
+.field public final synthetic b:Lba/v;
+
+
+# direct methods
+.method public synthetic constructor <init>(Lba/v;I)V
+    .locals 0
+
+    iput p2, p0, Lba/o;->a:I
+
+    iput-object p1, p0, Lba/o;->b:Lba/v;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final accept(Ljava/lang/Object;)V
+    .locals 3
+
+    iget v0, p0, Lba/o;->a:I
+
+    iget-object p0, p0, Lba/o;->b:Lba/v;
+
+    packed-switch v0, :pswitch_data_0
+
+    goto/16 :goto_1
+
+    :pswitch_0
+    check-cast p1, Lba/a;
+
+    invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    invoke-virtual {p1}, Lba/a;->K()Landroid/hardware/camera2/CaptureRequest$Builder;
+
+    move-result-object p1
+
+    iget-object p0, p0, Lba/v;->a:Lba/w;
+
+    invoke-static {p1, p0}, Lba/y;->b(Landroid/hardware/camera2/CaptureRequest$Builder;Lba/w;)V
+
+    return-void
+
+    :pswitch_1
+    check-cast p1, Lba/a;
+
+    invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    invoke-virtual {p1}, Lba/a;->K()Landroid/hardware/camera2/CaptureRequest$Builder;
+
+    move-result-object v0
+
+    invoke-virtual {p1}, Lba/a;->s()Lba/c;
+
+    move-result-object p1
+
+    iget-object p0, p0, Lba/v;->a:Lba/w;
+
+    invoke-static {v0, p1, p0}, Lba/y;->i0(Landroid/hardware/camera2/CaptureRequest$Builder;Lba/c;Lba/w;)V
+
+    return-void
+
+    :pswitch_2
+    check-cast p1, Lba/a;
+
+    invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    invoke-virtual {p1}, Lba/a;->K()Landroid/hardware/camera2/CaptureRequest$Builder;
+
+    move-result-object p1
+
+    iget-object p0, p0, Lba/v;->a:Lba/w;
+
+    invoke-static {p1, p0}, Lba/y;->U(Landroid/hardware/camera2/CaptureRequest$Builder;Lba/w;)V
+
+    return-void
+
+    :pswitch_3
+    check-cast p1, Lba/a;
+
+    invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    invoke-virtual {p1}, Lba/a;->K()Landroid/hardware/camera2/CaptureRequest$Builder;
+
+    move-result-object v0
+
+    invoke-virtual {p1}, Lba/a;->s()Lba/c;
+
+    move-result-object v1
+
+    iget-object v2, p0, Lba/v;->a:Lba/w;
+
+    invoke-static {v0, v1, v2}, Lba/y;->S(Landroid/hardware/camera2/CaptureRequest$Builder;Lba/c;Lba/w;)V
+
+    invoke-virtual {p1}, Lba/a;->s()Lba/c;
+
+    move-result-object v0
+
+    invoke-static {v0}, Lba/d;->L1(Lba/c;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_0
+
+    invoke-virtual {p1}, Lba/a;->K()Landroid/hardware/camera2/CaptureRequest$Builder;
+
+    move-result-object v0
+
+    invoke-virtual {p1}, Lba/a;->s()Lba/c;
+
+    move-result-object p1
+
+    iget-object p0, p0, Lba/v;->a:Lba/w;
+
+    invoke-static {v0, p1, p0}, Lba/y;->u(Landroid/hardware/camera2/CaptureRequest$Builder;Lba/c;Lba/w;)V
+
+    :cond_0
+    return-void
+
+    :pswitch_4
+    check-cast p1, Lba/a;
+
+    invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    invoke-virtual {p1}, Lba/a;->K()Landroid/hardware/camera2/CaptureRequest$Builder;
+
+    move-result-object p1
+
+    iget-object p0, p0, Lba/v;->a:Lba/w;
+
+    sget-object v0, Lba/y;->a:[Landroid/hardware/camera2/params/MeteringRectangle;
+
+    if-nez p1, :cond_1
+
+    goto :goto_0
+
+    :cond_1
+    iget p0, p0, Lba/w;->n1:I
+
+    invoke-static {p1, p0}, Lcom/android/camera2/compat/MiCameraCompat;->applyAiScenePeriod(Landroid/hardware/camera2/CaptureRequest$Builder;I)V
+
+    :goto_0
+    return-void
+
+    :pswitch_5
+    check-cast p1, Lba/a;
+
+    invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    invoke-virtual {p1}, Lba/a;->K()Landroid/hardware/camera2/CaptureRequest$Builder;
+
+    move-result-object p1
+
+    iget-object p0, p0, Lba/v;->a:Lba/w;
+
+    invoke-static {p1, p0}, Lba/y;->c(Landroid/hardware/camera2/CaptureRequest$Builder;Lba/w;)V
+
+    return-void
+
+    :goto_1
+    check-cast p1, Lba/a;
+
+    invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    invoke-virtual {p1}, Lba/a;->K()Landroid/hardware/camera2/CaptureRequest$Builder;
+
+    move-result-object v0
+
+    invoke-virtual {p1}, Lba/a;->s()Lba/c;
+
+    move-result-object p1
+
+    iget-object p0, p0, Lba/v;->a:Lba/w;
+
+    invoke-static {v0, p1, p0}, Lba/y;->O0(Landroid/hardware/camera2/CaptureRequest$Builder;Lba/c;Lba/w;)V
+
+    return-void
+
+    :pswitch_data_0
+    .packed-switch 0x0
+        :pswitch_5
+        :pswitch_4
+        :pswitch_3
+        :pswitch_2
+        :pswitch_1
+        :pswitch_0
+    .end packed-switch
+.end method

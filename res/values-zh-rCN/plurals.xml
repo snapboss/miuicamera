@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f8k">
+        <item quantity="other">%d小时前</item>
+    </plurals>
+    <plurals name="f8l">
+        <item quantity="other">半小时前</item>
+    </plurals>
+    <plurals name="f8m">
+        <item quantity="other">%d小时后</item>
+    </plurals>
+    <plurals name="f8n">
+        <item quantity="other">半小时后</item>
+    </plurals>
+    <plurals name="f8o">
+        <item quantity="other">马上</item>
+    </plurals>
+    <plurals name="f8p">
+        <item quantity="other">%d分钟后</item>
+    </plurals>
+    <plurals name="f8q">
+        <item quantity="other">刚刚</item>
+    </plurals>
+    <plurals name="f8r">
+        <item quantity="other">%d分钟前</item>
+    </plurals>
+    <plurals name="f8s">
+        <item quantity="other">夜景%d秒按钮</item>
+    </plurals>
+    <plurals name="f8t">
+        <item quantity="other">对焦完成，检测到%d张人脸</item>
+        <item quantity="one">对焦完成，检测到%d张人脸</item>
+    </plurals>
+    <plurals name="f8u">
+        <item quantity="other">拍摄张数%d张</item>
+    </plurals>
+    <plurals name="f8v">
+        <item quantity="other">时间间隔%d秒</item>
+    </plurals>
+    <plurals name="f8w">
+        <item quantity="other">录制时间%d秒</item>
+    </plurals>
+    <plurals name="f8x">
+        <item quantity="other">已输入%d字符</item>
+    </plurals>
+    <plurals name="f8y">
+        <item quantity="other">最多可输入%d字符</item>
+    </plurals>
+    <plurals name="f8z">
+        <item quantity="other">同一网络下最多支持接入%d台摄像机</item>
+    </plurals>
+    <plurals name="f90">
+        <item quantity="other">同一网络下最多支持接入%d台监视器</item>
+    </plurals>
+    <plurals name="f91">
+        <item quantity="other">最多支持%d个分身</item>
+        <item quantity="one">最多支持%d个分身</item>
+    </plurals>
+    <plurals name="f92">
+        <item quantity="other">&lt;Data>无法连接到相机，&lt;br>应用将在&lt;font color=#FFCE16>&lt;b>%1$ds&lt;/b>&lt;/font>后退出，请稍后重试。&lt;/Data></item>
+    </plurals>
+    <plurals name="f93">
+        <item quantity="other">&lt;Data>设备温度过高，&lt;br>应用将在&lt;font color=#FFCE16>&lt;b>%1$ds&lt;/b>&lt;/font>后退出，拍摄进度已自动保存。&lt;/Data></item>
+    </plurals>
+    <plurals name="f94">
+        <item quantity="other">&lt;Data>当前相机版本和机型不匹配，&lt;br>应用将在&lt;font color=#FFCE16>&lt;b>%1$ds&lt;/b>&lt;/font>后退出，请卸载该版本后使用。&lt;/Data></item>
+    </plurals>
+    <plurals name="f95">
+        <item quantity="other">快进 %d 秒</item>
+        <item quantity="one">快进 %d 秒</item>
+    </plurals>
+    <plurals name="f96">
+        <item quantity="other">快退 %d 秒</item>
+        <item quantity="one">快退 %d 秒</item>
+    </plurals>
+    <plurals name="f97">
+        <item quantity="other">%1$d分</item>
+    </plurals>
+    <plurals name="f98">
+        <item quantity="other">%1$d秒</item>
+    </plurals>
+    <plurals name="f99">
+        <item quantity="other">已默认开启倒计时%1$ds拍摄，并自动传输照片至本机</item>
+    </plurals>
+    <plurals name="f9f">
+        <item quantity="other">是否删除%1$d项草稿？</item>
+    </plurals>
+    <plurals name="f9g">
+        <item quantity="other">最多支持添加%d个预设</item>
+    </plurals>
+    <plurals name="f9h">
+        <item quantity="other">已选择%d项</item>
+        <item quantity="one">已选择%d项</item>
+    </plurals>
+    <plurals name="f9i">
+        <item quantity="other">已选中%1$d个</item>
+    </plurals>
+    <plurals name="f9j">
+        <item quantity="other">%d 条新通知</item>
+        <item quantity="one">%d 条新通知</item>
+    </plurals>
+    <plurals name="f9l">
+        <item quantity="other">%dS</item>
+    </plurals>
+    <plurals name="f9m">
+        <item quantity="other">%1$s分钟</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">%d秒录制</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">仅支持 %d 个人像拍摄</item>
+        <item quantity="one">仅支持 %d 个人像拍摄</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">%1$s张</item>
+        <item quantity="one">%1$s张</item>
+    </plurals>
+</resources>

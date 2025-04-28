@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f8k">
+        <item quantity="other">%d小時前</item>
+    </plurals>
+    <plurals name="f8l">
+        <item quantity="other">半小時前</item>
+    </plurals>
+    <plurals name="f8m">
+        <item quantity="other">%d小時後</item>
+    </plurals>
+    <plurals name="f8n">
+        <item quantity="other">半小時後</item>
+    </plurals>
+    <plurals name="f8o">
+        <item quantity="other">馬上</item>
+    </plurals>
+    <plurals name="f8p">
+        <item quantity="other">%d分鐘後</item>
+    </plurals>
+    <plurals name="f8q">
+        <item quantity="other">剛剛</item>
+    </plurals>
+    <plurals name="f8r">
+        <item quantity="other">%d分鐘前</item>
+    </plurals>
+    <plurals name="f8s">
+        <item quantity="other">夜景%d秒按鈕</item>
+    </plurals>
+    <plurals name="f8t">
+        <item quantity="other">對焦完成，檢測到%d張人臉</item>
+    </plurals>
+    <plurals name="f8u">
+        <item quantity="other">拍攝張數%d張</item>
+    </plurals>
+    <plurals name="f8v">
+        <item quantity="other">時間間隔%d秒</item>
+    </plurals>
+    <plurals name="f8w">
+        <item quantity="other">錄製時間%d秒</item>
+    </plurals>
+    <plurals name="f8x">
+        <item quantity="other">已輸入%d字符</item>
+    </plurals>
+    <plurals name="f8y">
+        <item quantity="other">最多可輸入%d字符</item>
+    </plurals>
+    <plurals name="f8z">
+        <item quantity="other">同一網路下最多支援存取%d台攝影機</item>
+    </plurals>
+    <plurals name="f90">
+        <item quantity="other">同一網路下最多支援存取%d台監視器</item>
+    </plurals>
+    <plurals name="f91">
+        <item quantity="other">最多支援%d個分身</item>
+    </plurals>
+    <plurals name="f92">
+        <item quantity="other">&lt;Data>無法連線到相機，&lt;br>應用程式將在&lt;font color=#FFCE16>&lt;b>%1$ds&lt;/b>&lt;/font>後退出，請稍候重試。&lt;/Data></item>
+    </plurals>
+    <plurals name="f93">
+        <item quantity="other">&lt;Data>裝置溫度過高，&lt;br>應用程式將在&lt;font color=#FFCE16>&lt;b>%1$ds&lt;/b>&lt;/font>後退出，拍攝進度已自動儲存。&lt;/Data></item>
+    </plurals>
+    <plurals name="f94">
+        <item quantity="other">&lt;Data>目前相機版本和機型不匹配，&lt;br>應用程式將在&lt;font color=#FFCE16>&lt;b>%1$ds&lt;/b>&lt;/font>後退出，請移除該版本後使用。&lt;/Data></item>
+    </plurals>
+    <plurals name="f95">
+        <item quantity="other">快轉 %d 秒</item>
+        <item quantity="one">快轉 %d 秒</item>
+    </plurals>
+    <plurals name="f96">
+        <item quantity="other">倒轉 %d 秒</item>
+        <item quantity="one">倒轉 %d 秒</item>
+    </plurals>
+    <plurals name="f97">
+        <item quantity="other">%1$d分</item>
+    </plurals>
+    <plurals name="f98">
+        <item quantity="other">%1$d秒</item>
+    </plurals>
+    <plurals name="f99">
+        <item quantity="other">已預設開啟倒數計時%1$ds拍攝，並自動傳輸照片至本機</item>
+    </plurals>
+    <plurals name="f9f">
+        <item quantity="other">是否刪除%1$d項草稿？</item>
+    </plurals>
+    <plurals name="f9g">
+        <item quantity="other">最多支援新增%d個預設</item>
+    </plurals>
+    <plurals name="f9h">
+        <item quantity="other">已選擇%d項</item>
+    </plurals>
+    <plurals name="f9j">
+        <item quantity="other">%d 則新通知</item>
+        <item quantity="one">%d 則新通知</item>
+    </plurals>
+    <plurals name="f9l">
+        <item quantity="other">%dS</item>
+    </plurals>
+    <plurals name="f9m">
+        <item quantity="other">%1$s分鐘</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">%d秒錄製</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">僅支援 %d 個人像拍攝</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">%1$s張</item>
+    </plurals>
+</resources>

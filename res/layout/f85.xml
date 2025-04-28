@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.android.camera.fragment.watermark.view.BorderImageView android:layout_gravity="center_horizontal" android:id="@id/sample" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/eg7" android:scaleType="fitCenter" android:adjustViewBounds="true" app:l4="@color/watermark_type_border_color" app:l5="@dimen/eg4" app:l8="@dimen/eg5" />
+</LinearLayout>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f8j">
+        <item quantity="other">1 oră în urmă</item>
+        <item quantity="one">1 oră în urmă</item>
+        <item quantity="few">1 oră în urmă</item>
+    </plurals>
+    <plurals name="f8k">
+        <item quantity="other">%d ore în urmă</item>
+        <item quantity="one">%d oră în urmă</item>
+        <item quantity="few">%d ore în urmă</item>
+    </plurals>
+    <plurals name="f8l">
+        <item quantity="other">Jumătate de oră în urmă</item>
+        <item quantity="one">Jumătate de oră în urmă</item>
+        <item quantity="few">Jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="f8m">
+        <item quantity="other">În %d ore</item>
+        <item quantity="one">În %d oră</item>
+        <item quantity="few">În %d ore</item>
+    </plurals>
+    <plurals name="f8n">
+        <item quantity="other">În jumătate de oră</item>
+        <item quantity="one">În jumătate de oră</item>
+        <item quantity="few">În jumătate de oră</item>
+    </plurals>
+    <plurals name="f8o">
+        <item quantity="other">Imediat</item>
+        <item quantity="one">Imediat</item>
+        <item quantity="few">Imediat</item>
+    </plurals>
+    <plurals name="f8p">
+        <item quantity="other">În %d min</item>
+        <item quantity="one">În %d min</item>
+        <item quantity="few">În %d min</item>
+    </plurals>
+    <plurals name="f8q">
+        <item quantity="other">Chiar acum</item>
+        <item quantity="one">Chiar acum</item>
+        <item quantity="few">Chiar acum</item>
+    </plurals>
+    <plurals name="f8r">
+        <item quantity="other">%d min în urmă</item>
+        <item quantity="one">%d min în urmă</item>
+        <item quantity="few">%d min în urmă</item>
+    </plurals>
+    <plurals name="f8s">
+        <item quantity="other">Temporizator de %d-secunde pentru Modul nocturn</item>
+        <item quantity="one">Temporizator de %d-secundă pentru Modul nocturn</item>
+        <item quantity="few">Temporizator de %d-secunde pentru Modul nocturn</item>
+    </plurals>
+    <plurals name="f8t">
+        <item quantity="other">Focalizat. %d fețe detectate</item>
+        <item quantity="one">Focalizat. %d față detectată</item>
+        <item quantity="few">Focalizat. %d fețe detectate</item>
+    </plurals>
+    <plurals name="f8u">
+        <item quantity="other">%d fotografii în captură în rafale</item>
+        <item quantity="one">%d fotografie în captură în rafale</item>
+        <item quantity="few">%d fotografii în captură în rafale</item>
+    </plurals>
+    <plurals name="f8v">
+        <item quantity="other">Interval: %d secundă</item>
+        <item quantity="one">Interval: %d secundă</item>
+        <item quantity="few">Interval: %d secunde</item>
+    </plurals>
+    <plurals name="f8w">
+        <item quantity="other">Durată: %d secunde</item>
+        <item quantity="one">Durată: %d secundă</item>
+        <item quantity="few">Durată: %d secunde</item>
+    </plurals>
+    <plurals name="f8x">
+        <item quantity="other">S-au introdus %d caractere.</item>
+        <item quantity="one">S-a introdus %d caracter.</item>
+        <item quantity="few">S-au introdus %d caractere.</item>
+    </plurals>
+    <plurals name="f8y">
+        <item quantity="other">Introduceți până la %d caractere.</item>
+        <item quantity="one">Introduceți până la %d caracter.</item>
+        <item quantity="few">Introduceți până la %d caractere.</item>
+    </plurals>
+    <plurals name="f8z">
+        <item quantity="other">Puteți conecta până la %d camere la aceeași rețea</item>
+        <item quantity="one">Puteți conecta până la %d cameră la aceeași rețea</item>
+        <item quantity="few">Puteți conecta până la %d camere la aceeași rețea</item>
+    </plurals>
+    <plurals name="f90">
+        <item quantity="other">Puteți conecta până la %d monitoare la aceeași rețea</item>
+        <item quantity="one">Puteți conecta până la %d monitor la aceeași rețea</item>
+        <item quantity="few">Puteți conecta până la %d monitoare la aceeași rețea</item>
+    </plurals>
+    <plurals name="f91">
+        <item quantity="other">Puteți crea până la %d clone simultan.</item>
+        <item quantity="one">Puteți crea până la %d clonă simultan.</item>
+        <item quantity="few">Puteți crea până la %d clone simultan.</item>
+    </plurals>
+    <plurals name="f92">
+        <item quantity="other">&lt;Data>Nu se poate conecta la cameră.&lt;br>Această aplicație se va închide în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. După aceasta, așteptați un minut sau două și încercați din nou.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Nu se poate conecta la cameră.&lt;br>Această aplicație se va închide în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. După aceasta, așteptați un minut sau două și încercați din nou.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Nu se poate conecta la cameră.&lt;br>Această aplicație se va închide în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. După aceasta, așteptați un minut sau două și încercați din nou.&lt;/Data></item>
+    </plurals>
+    <plurals name="f93">
+        <item quantity="other">&lt;Data>Acest dispozitiv este prea fierbinte acum.&lt;br>Aplicația va fi închisă în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Progresul actual a fost salvat automat.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Acest dispozitiv este prea fierbinte acum.&lt;br>Aplicația va fi închisă în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Progresul actual a fost salvat automat.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Acest dispozitiv este prea fierbinte acum.&lt;br>Aplicația va fi închisă în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Progresul actual a fost salvat automat.&lt;/Data></item>
+    </plurals>
+    <plurals name="f94">
+        <item quantity="other">&lt;Data>Versiunea camerei pe care o utilizați nu este compatibilă cu modelul dispozitivului dvs.&lt;br>Aplicația se va închide în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Dezinstalați actualizările camerei și încercați din nou.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Versiunea camerei pe care o utilizați nu este compatibilă cu modelul dispozitivului dvs.&lt;br>Aplicația se va închide în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Dezinstalați actualizările camerei și încercați din nou.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Versiunea camerei pe care o utilizați nu este compatibilă cu modelul dispozitivului dvs.&lt;br>Aplicația se va închide în &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Dezinstalați actualizările camerei și încercați din nou.&lt;/Data></item>
+    </plurals>
+    <plurals name="f95">
+        <item quantity="other">Derulează rapid înainte cu %d de secunde</item>
+        <item quantity="one">Derulează rapid înainte cu %d secundă</item>
+        <item quantity="few">Derulează rapid înainte cu %d secunde</item>
+    </plurals>
+    <plurals name="f96">
+        <item quantity="other">Derulează înapoi cu %d de secunde</item>
+        <item quantity="one">Derulează înapoi cu %d secundă</item>
+        <item quantity="few">Derulează înapoi cu %d secunde</item>
+    </plurals>
+    <plurals name="f97">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+        <item quantity="few">%1$d min</item>
+    </plurals>
+    <plurals name="f98">
+        <item quantity="other">%1$d sec</item>
+        <item quantity="one">%1$d sec</item>
+        <item quantity="few">%1$d sec</item>
+    </plurals>
+    <plurals name="f99">
+        <item quantity="other">Temporizator activat (%1$d sec). Fotografiile vor fi transferate pe acest dispozitiv.</item>
+        <item quantity="one">Temporizator activat (%1$d sec). Fotografiile vor fi transferate pe acest dispozitiv.</item>
+        <item quantity="few">Temporizator activat (%1$d sec). Fotografiile vor fi transferate pe acest dispozitiv.</item>
+    </plurals>
+    <plurals name="f9_">
+        <item quantity="other">Jumătate de oră în urmă</item>
+        <item quantity="one">Jumătate de oră în urmă</item>
+        <item quantity="few">Jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="f9a">
+        <item quantity="other">În 1 oră</item>
+        <item quantity="one">În 1 oră</item>
+        <item quantity="few">În 1 oră</item>
+    </plurals>
+    <plurals name="f9b">
+        <item quantity="other">În jumătate de oră</item>
+        <item quantity="one">În jumătate de oră</item>
+        <item quantity="few">În jumătate de oră</item>
+    </plurals>
+    <plurals name="f9c">
+        <item quantity="other">Imediat</item>
+        <item quantity="one">Imediat</item>
+        <item quantity="few">Imediat</item>
+    </plurals>
+    <plurals name="f9d">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">în 1 minut</item>
+        <item quantity="few">în %d minute</item>
+    </plurals>
+    <plurals name="f9e">
+        <item quantity="other">Chiar acum</item>
+        <item quantity="one">Chiar acum</item>
+        <item quantity="few">Chiar acum</item>
+    </plurals>
+    <plurals name="f9f">
+        <item quantity="other">Ștergeți %1$d schițe?</item>
+        <item quantity="one">Ștergeți %1$d schiță?</item>
+        <item quantity="few">Ștergeți %1$d schițe?</item>
+    </plurals>
+    <plurals name="f9g">
+        <item quantity="other">Adăugați până la %d presetări</item>
+        <item quantity="one">Adăugați până la %d presetare</item>
+        <item quantity="few">Adăugați până la %d presetări</item>
+    </plurals>
+    <plurals name="f9h">
+        <item quantity="other">%d elemente selectate</item>
+        <item quantity="one">%d element selectat</item>
+        <item quantity="few">%d elemente selectate</item>
+    </plurals>
+    <plurals name="f9j">
+        <item quantity="other">%d de notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+    </plurals>
+    <plurals name="f9k">
+        <item quantity="other">%d min în urmă</item>
+        <item quantity="one">Un 1 în urmă</item>
+        <item quantity="few">%d min în urmă</item>
+    </plurals>
+    <plurals name="f9l">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
+        <item quantity="few">%ds</item>
+    </plurals>
+    <plurals name="f9m">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+        <item quantity="few">%1$s min</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">Înregistrați %d secunde</item>
+        <item quantity="one">Înregistrați %d secundă</item>
+        <item quantity="few">Înregistrați %d secunde</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">Puteți înregistra videoclipuri cu înghețarea timpului doar cu %d subiecte.</item>
+        <item quantity="one">Puteți înregistra videoclipuri cu înghețarea timpului doar cu %d subiect.</item>
+        <item quantity="few">Puteți înregistra videoclipuri cu înghețarea timpului doar cu %d subiecte.</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">%1$s fotografii</item>
+        <item quantity="one">%1$s fotografie</item>
+        <item quantity="few">%1$s fotografii</item>
+    </plurals>
+</resources>

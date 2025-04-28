@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/makeup_image_parent" android:layout_width="@dimen/bkg" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dsw" android:layout_marginBottom="@dimen/dsu"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:gravity="center" android:clipChildren="false" android:layout_width="@dimen/bkg" android:layout_height="@dimen/dst">
+        <com.android.camera.ui.NormalRoundView android:gravity="center" android:layout_gravity="center" android:id="@id/makeups_container_wrapper" android:focusable="false" android:clipChildren="false" android:layout_width="@dimen/bkc" android:layout_height="@dimen/dss" app:aj9="@dimen/dt0">
+            <ImageView android:id="@id/item_image_view" android:focusable="false" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerInside" android:contentDescription="@null" />
+            <com.android.camera.ui.FastmotionTextureVideoView android:id="@id/effect_item_video" android:focusable="false" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <ImageView android:id="@id/effect_item_video_cover" android:focusable="false" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@null" />
+        </com.android.camera.ui.NormalRoundView>
+        <ImageView android:id="@id/item_selected_indicator" android:visibility="gone" android:layout_width="@dimen/bkg" android:layout_height="@dimen/dst" android:src="@drawable/effect_filter_item_selector" android:contentDescription="@null" />
+    </FrameLayout>
+    <com.android.camera.ui.AdaptiveTextView android:textSize="@dimen/dt2" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="center_horizontal" android:layout_gravity="bottom|center" android:id="@id/name_text_view" android:layout_width="@dimen/bkc" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dtf" android:maxLines="2" android:shadowColor="@color/alpha24_black" android:shadowRadius="@dimen/dtc" />
+</LinearLayout>

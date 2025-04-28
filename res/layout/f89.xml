@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.android.camera.fragment.watermark.view.WatermarkItemCheckBox android:id="@id/watermark_type_item_cb" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <miuix.visual.check.BorderLayout android:id="@id/border" android:layout_width="fill_parent" android:layout_height="@dimen/egd" app:oj="@drawable/preference_watermark_item_visual_check_border">
+            <com.android.camera.fragment.watermark.view.CustomBorderImageView android:id="@id/type_image" android:layout_width="fill_parent" android:layout_height="@dimen/egg" android:layout_margin="@dimen/ege" android:scaleType="fitCenter" app:ug="@color/watermark_type_border_color" app:uh="@dimen/eg8" app:ui="@dimen/egf" />
+        </miuix.visual.check.BorderLayout>
+        <TextView android:textSize="@dimen/egi" android:textColor="@color/watermark_text_color" android:id="@id/te" android:layout_width="wrap_content" android:layout_height="@dimen/egl" android:layout_marginTop="@dimen/egn" android:text="@string/his" android:fontFamily="misans-normal" android:layout_marginStart="@dimen/egm" />
+    </com.android.camera.fragment.watermark.view.WatermarkItemCheckBox>
+</LinearLayout>

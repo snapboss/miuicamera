@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.android.camera.ui.EdgeGradientView android:id="@id/vlog_spring_layout" android:scrollbars="none" android:layout_width="wrap_content" android:layout_height="wrap_content" app:xd="top">
+        <miuix.recyclerview.widget.RecyclerView android:id="@id/live_effect_list" android:focusable="false" android:layout_width="fill_parent" android:layout_height="278.89844dip" />
+    </com.android.camera.ui.EdgeGradientView>
+    <FrameLayout android:layout_width="55.26999dip" android:layout_height="wrap_content" android:layout_marginTop="@dimen/c7r" android:layout_marginBottom="@dimen/c7r">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/effect_indicator" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_effect_indicator" android:importantForAccessibility="no" />
+    </FrameLayout>
+    <androidx.cardview.widget.CardView android:id="@id/effect_close_item" android:focusable="false" android:visibility="gone" android:layout_width="@dimen/b8t" android:layout_height="70.0dip" app:mt="@color/fullscreen_background_cv" app:mw="@dimen/bxm" app:mx="0.0dip">
+        <androidx.cardview.widget.CardView android:layout_gravity="center" android:id="@id/close_effect_item" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" app:mt="@color/fullscreen_background_cv" app:mw="3.0dip" app:mx="0.0dip">
+            <ImageView android:layout_gravity="center" android:id="@id/close_item_image" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="center" android:layout_centerInParent="true" android:contentDescription="@string/gke" />
+        </androidx.cardview.widget.CardView>
+        <ImageView android:layout_gravity="center" android:id="@id/close_indicator" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" android:contentDescription="@null" />
+        <com.android.camera.ui.AdaptiveTextView android:textSize="@dimen/dt2" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="bottom|center" android:layout_gravity="bottom|center" android:id="@id/name_text_view" android:layout_width="@dimen/dss" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dtf" android:maxHeight="30.0dip" android:maxLines="2" android:shadowColor="@color/alpha24_black" android:shadowRadius="@dimen/dtc" />
+    </androidx.cardview.widget.CardView>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/live_effect_updating" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ProgressBar android:id="@id/live_effect_updating_progress" android:layout_width="15.0dip" android:layout_height="15.0dip" android:layout_marginBottom="@dimen/edc" android:indeterminateDrawable="@drawable/post_process_progress_vector" android:indeterminateDuration="@integer/eo2" style="?android:progressBarStyleLarge" />
+        <TextView android:textSize="@dimen/c9i" android:textColor="@android:color/white" android:id="@id/live_effect_updating_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/edc" android:text="@string/gkc" android:layout_marginStart="11.0dip" />
+    </LinearLayout>
+</LinearLayout>

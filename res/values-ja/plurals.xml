@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f8j">
+        <item quantity="other">1時間前</item>
+    </plurals>
+    <plurals name="f8k">
+        <item quantity="other">%d時間前</item>
+    </plurals>
+    <plurals name="f8l">
+        <item quantity="other">30分前</item>
+    </plurals>
+    <plurals name="f8m">
+        <item quantity="other">%d時間後</item>
+    </plurals>
+    <plurals name="f8n">
+        <item quantity="other">30分後</item>
+    </plurals>
+    <plurals name="f8o">
+        <item quantity="other">今すぐ</item>
+    </plurals>
+    <plurals name="f8p">
+        <item quantity="other">%d分後</item>
+    </plurals>
+    <plurals name="f8q">
+        <item quantity="other">たった今</item>
+    </plurals>
+    <plurals name="f8r">
+        <item quantity="other">%d分前</item>
+    </plurals>
+    <plurals name="f8s">
+        <item quantity="other">ナイトモードの%d秒タイマー</item>
+    </plurals>
+    <plurals name="f8t">
+        <item quantity="other">フォーカスしました。%d個の顔を認識しました。</item>
+    </plurals>
+    <plurals name="f8u">
+        <item quantity="other">撮影枚数%d枚</item>
+    </plurals>
+    <plurals name="f8v">
+        <item quantity="other">時間間隔%d秒</item>
+    </plurals>
+    <plurals name="f8w">
+        <item quantity="other">時間：%d秒</item>
+    </plurals>
+    <plurals name="f8x">
+        <item quantity="other">%d 文字を入力しました。</item>
+    </plurals>
+    <plurals name="f8y">
+        <item quantity="other">最大 %d 文字まで入力してください。</item>
+    </plurals>
+    <plurals name="f8z">
+        <item quantity="other">最大%d台のカメラを同じネットワークに接続できます</item>
+    </plurals>
+    <plurals name="f90">
+        <item quantity="other">最大%d台のモニターを同じネットワークに接続できます</item>
+    </plurals>
+    <plurals name="f91">
+        <item quantity="other">一度に最大で%d体のクローンを作成できます。</item>
+    </plurals>
+    <plurals name="f92">
+        <item quantity="other">&lt;Data>カメラに接続できません。&lt;br>このアプリは&lt;font color=#FFCE16>&lt;b>%1$d秒&lt;/b>&lt;/font>後に終了します。その後、数分待ってからもう一度お試しください。&lt;/Data></item>
+    </plurals>
+    <plurals name="f93">
+        <item quantity="other">&lt;Data>現在、デバイスの温度が高すぎます。&lt;br>このアプリは&lt;font color=#FFCE16>&lt;b>%1$d秒&lt;/b>&lt;/font>後に終了します。現在の進捗状況は自動的に保存されました。&lt;/Data></item>
+    </plurals>
+    <plurals name="f94">
+        <item quantity="other">&lt;Data>使用しているカメラのバージョンはデバイスのモデルと互換性がありません。&lt;br>アプリは&lt;font color=#FFCE16>&lt;b>%1$d 秒&lt;/b>&lt;/font>後に終了します。カメラのアップデートをアンインストールして、もう一度お試しください。&lt;/Data></item>
+    </plurals>
+    <plurals name="f95">
+        <item quantity="other">%d 秒早送り</item>
+        <item quantity="one">%d 秒早送り</item>
+    </plurals>
+    <plurals name="f96">
+        <item quantity="other">%d 秒巻き戻し</item>
+        <item quantity="one">%d 秒巻き戻し</item>
+    </plurals>
+    <plurals name="f97">
+        <item quantity="other">%1$d分</item>
+    </plurals>
+    <plurals name="f98">
+        <item quantity="other">%1$d秒</item>
+    </plurals>
+    <plurals name="f99">
+        <item quantity="other">タイマーをオンにしました (%1$d秒)。写真はこのデバイスに転送されます。</item>
+    </plurals>
+    <plurals name="f9_">
+        <item quantity="other">30分前</item>
+    </plurals>
+    <plurals name="f9a">
+        <item quantity="other">1時間後</item>
+    </plurals>
+    <plurals name="f9b">
+        <item quantity="other">30分後</item>
+    </plurals>
+    <plurals name="f9c">
+        <item quantity="other">今すぐ</item>
+    </plurals>
+    <plurals name="f9d">
+        <item quantity="other">%d分後</item>
+    </plurals>
+    <plurals name="f9e">
+        <item quantity="other">たった今</item>
+    </plurals>
+    <plurals name="f9f">
+        <item quantity="other">%1$d件の下書きを削除しますか？</item>
+    </plurals>
+    <plurals name="f9g">
+        <item quantity="other">最大 %d 個のプリセットを追加します</item>
+    </plurals>
+    <plurals name="f9h">
+        <item quantity="other">%d個を選択済み</item>
+    </plurals>
+    <plurals name="f9j">
+        <item quantity="other">%d 件の新しい通知</item>
+        <item quantity="one">%d 件の新しい通知</item>
+    </plurals>
+    <plurals name="f9k">
+        <item quantity="other">%d分前</item>
+    </plurals>
+    <plurals name="f9l">
+        <item quantity="other">%d秒</item>
+    </plurals>
+    <plurals name="f9m">
+        <item quantity="other">%1$s分</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">%d秒録画</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">%d個までの被写体でタイムフリーズビデオを撮影することができます。</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">%1$s枚</item>
+    </plurals>
+</resources>

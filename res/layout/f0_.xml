@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/f0_" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:baselineAligned="false" android:layoutDirection="ltr" app:a7a="parent" app:a7e="parent" app:a7k="parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/material_hour_tv" layout="@layout/f0g" />
+    <include layout="@layout/f0a" />
+    <include android:id="@id/material_minute_tv" layout="@layout/f0g" />
+</LinearLayout>

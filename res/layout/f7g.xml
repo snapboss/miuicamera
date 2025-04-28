@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.ui.TopAlertSlideSwitchButton android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="@dimen/dzb" android:layout_marginTop="@dimen/b1_" app:p6="@dimen/dz8" app:a49="#ffffffff" app:a4r="true" app:at6="@dimen/dzd"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

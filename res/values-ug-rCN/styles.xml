@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="j87" parent="@style/j2y">
+        <item name="android:textAppearance">@style/il5</item>
+        <item name="android:textColor">?w8</item>
+        <item name="android:gravity">center</item>
+        <item name="android:fontFamily">@string/gu1</item>
+        <item name="android:breakStrategy">balanced</item>
+    </style>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:layout_width="@dimen/ea1" android:layout_height="@dimen/ea0" android:layout_marginStart="@dimen/ec_">
+        <CheckBox android:id="@id/vp_dialog_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="false" />
+        <com.android.camera.ui.ScrollTextview android:textSize="@dimen/bo5" android:textColor="@color/vv_dialog_message_color" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/vp_dialog_checkbox_message" android:layout_width="fill_parent" android:layout_height="fill_parent" android:singleLine="true" android:layout_marginStart="@dimen/eca" android:layout_marginEnd="@dimen/ec9" />
+    </LinearLayout>
+</FrameLayout>

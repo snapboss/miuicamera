@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen/d96" android:top="@dimen/d96" android:right="@dimen/d96" android:bottom="@dimen/d96">
+        <shape android:shape="oval">
+            <size android:height="@dimen/d97" android:width="@dimen/d97" />
+            <solid android:color="@color/miuix_appcompat_white" />
+        </shape>
+    </item>
+</layer-list>

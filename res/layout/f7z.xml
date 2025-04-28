@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/e_e"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_gravity="center_vertical" android:id="@id/video_tag" android:background="@drawable/bg_video_tag" android:layout_width="@dimen/e_b" android:layout_height="@dimen/e_b" android:contentDescription="@string/i7y" android:paddingEnd="2.0px">
+        <ImageView android:id="@id/tag_flag" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/video_tag" android:layout_centerVertical="true" android:layout_marginStart="@dimen/e_4" />
+        <TextView android:textSize="@dimen/e_h" android:textColor="@color/white" android:id="@id/video_tag_value" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+</FrameLayout>

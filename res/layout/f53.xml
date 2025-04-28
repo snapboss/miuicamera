@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:gravity="start|bottom|center" android:layout_gravity="start|center|top" android:id="@id/f53" android:paddingBottom="@dimen/dbb" android:layout_width="fill_parent" android:layout_height="wrap_content" app:a0_="@dimen/dbf" app:a8h="@dimen/db1" style="?a_i"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

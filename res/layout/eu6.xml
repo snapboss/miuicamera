@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView android:layout_width="@dimen/c4o" android:layout_height="wrap_content" android:minHeight="@dimen/dq3" app:mw="@dimen/cpd">
+        <LinearLayout android:orientation="vertical" android:background="#ff242424" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/gzf">
+            <ImageView android:layout_width="fill_parent" android:layout_height="@dimen/c4i" android:src="@drawable/id_card_dark_drawable" />
+            <TextView android:textSize="18.0sp" android:textColor="#e6ffffff" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:layout_width="@dimen/c4s" android:layout_height="wrap_content" android:layout_marginTop="@dimen/c4l" android:text="@string/ggp" />
+            <TextView android:textSize="14.0sp" android:textColor="#ccffffff" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:layout_width="@dimen/c4s" android:layout_height="wrap_content" android:layout_marginTop="@dimen/c4m" android:layout_marginBottom="@dimen/c4t" android:text="@string/ggo" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+    <ImageButton android:id="@id/btn_cancel" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/c4h" android:src="@drawable/ic_vector_dialog_cancel" android:contentDescription="@string/gze" />
+</LinearLayout>

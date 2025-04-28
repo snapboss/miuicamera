@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ics" parent="@style/icq" />
+    <style name="icz" parent="@style/icx" />
+    <style name="idd" parent="@style/idb" />
+    <style name="idn" parent="@style/idl" />
+    <style name="ixc" parent="@style/id2">
+        <item name="ax5">@dimen/az2</item>
+        <item name="ax6">@dimen/az3</item>
+        <item name="ax7">@dimen/az4</item>
+        <item name="ax8">@dimen/az5</item>
+    </style>
+    <style name="ixt" parent="@style/id5">
+        <item name="ax5">@dimen/az2</item>
+        <item name="ax6">@dimen/az3</item>
+        <item name="ax7">@dimen/az4</item>
+        <item name="ax8">@dimen/az5</item>
+    </style>
+</resources>

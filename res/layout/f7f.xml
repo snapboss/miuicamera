@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@id/f7f" android:background="@drawable/bg_live_music_text" android:layout_width="wrap_content" android:layout_height="@dimen/df2"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.camera.ui.ScrollTextview android:textSize="@dimen/df_" android:textColor="@color/white" android:ellipsize="marquee" android:gravity="center" android:id="@id/live_music_title_hint" android:layout_width="wrap_content" android:layout_height="@dimen/df2" android:maxWidth="@dimen/dfa" android:scrollHorizontally="true" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" android:layout_marginStart="@dimen/df9" style="@style/iqc" />
+    <ImageView android:id="@id/live_music_close" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_vector_close_thin" android:layout_marginStart="@dimen/df0" android:layout_marginEnd="@dimen/df9" />
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f95">
+        <item quantity="other">በ%d ሰከንዶች በፍጥነት ወደፊት ያሳልፉ</item>
+        <item quantity="one">በ%d ሰከንዶች በፍጥነት ወደፊት ያሳልፉ</item>
+    </plurals>
+    <plurals name="f96">
+        <item quantity="other">በ%d ሰከንዶች ወደኋላ ይመልሱ</item>
+        <item quantity="one">በ%d ሰከንዶች ወደኋላ ይመልሱ</item>
+    </plurals>
+    <plurals name="f9j">
+        <item quantity="other">%d አዲስ ማሳወቂያዎች</item>
+        <item quantity="one">%d አዲስ ማሳወቂያዎች</item>
+    </plurals>
+</resources>

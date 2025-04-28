@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/rotate_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/b1x" android:paddingVertical="@dimen/b1y">
+        <TextView android:textSize="@dimen/b2g" android:textColor="#ffffffff" android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/location_time_1_day" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" android:fontFamily="mipro-light" />
+        <View android:id="@id/divide_1" android:background="#7fffffff" android:layout_width="@dimen/b1i" android:layout_height="fill_parent" android:layout_marginStart="@dimen/b1g" android:layout_marginVertical="@dimen/b1h" />
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/location_time_1_time_lcation" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/b1t">
+            <TextView android:textSize="@dimen/b2h" android:textColor="#ffffffff" android:ellipsize="end" android:id="@id/location_time_1_location" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/b1v" android:maxLines="3" android:fontFamily="mipro-normal" />
+            <TextView android:textSize="@dimen/b2j" android:textColor="#ffffffff" android:ellipsize="end" android:id="@id/location_time_1_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/b2i" android:singleLine="true" android:fontFamily="mipro-normal" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

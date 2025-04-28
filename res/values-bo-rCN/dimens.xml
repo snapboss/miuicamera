@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cog">80.0dip</dimen>
+    <dimen name="coh">94.0dip</dimen>
+    <dimen name="cop">8.0sp</dimen>
+    <dimen name="cos">8.0sp</dimen>
+    <dimen name="cws">2.0dip</dimen>
+    <dimen name="czh">4.5dip</dimen>
+    <dimen name="d39">105.0dip</dimen>
+</resources>

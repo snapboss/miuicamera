@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dam">4.0dip</dimen>
+    <dimen name="dao">18.0dip</dimen>
+    <dimen name="dap">40.0dip</dimen>
+    <dimen name="daq">2.0dip</dimen>
+    <dimen name="das">2.0dip</dimen>
+    <dimen name="dat">40.0dip</dimen>
+    <dimen name="dau">20.0dip</dimen>
+    <dimen name="db5">128.0dip</dimen>
+    <dimen name="db7">4.0dip</dimen>
+</resources>

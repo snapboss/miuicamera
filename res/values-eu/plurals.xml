@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f95">
+        <item quantity="other">Aurreratu %d segundo</item>
+        <item quantity="one">Aurreratu %d segundo</item>
+    </plurals>
+    <plurals name="f96">
+        <item quantity="other">Atzeratu %d segundo</item>
+        <item quantity="one">Atzeratu %d segundo</item>
+    </plurals>
+    <plurals name="f9j">
+        <item quantity="other">%d jakinarazpen berri</item>
+        <item quantity="one">%d jakinarazpen berri</item>
+    </plurals>
+</resources>

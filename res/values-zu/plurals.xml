@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f95">
+        <item quantity="other">Dlulisela phambili ngamasekhondi angu-%d</item>
+        <item quantity="one">Dlulisela phambili ngamasekhondi angu-%d</item>
+    </plurals>
+    <plurals name="f96">
+        <item quantity="other">Hlehlisa ngamasekhondi angu-%d</item>
+        <item quantity="one">Hlehlisa ngamasekhondi angu-%d</item>
+    </plurals>
+    <plurals name="f9j">
+        <item quantity="other">%d izaziso ezintsha</item>
+        <item quantity="one">%d izaziso ezintsha</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="start|center|top" android:id="@id/manually_action_arrow" android:visibility="gone" android:layout_width="@dimen/dlo" android:layout_height="@dimen/dlo" android:src="@drawable/ic_ugc_action_arrow_pad" android:scaleType="centerInside" android:contentDescription="@string/fcw" />
+    <FrameLayout android:layout_gravity="center_vertical" android:id="@id/manually_frame_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.recyclerview.widget.RecyclerView android:layout_gravity="center_horizontal" android:id="@id/manually_recycler_view" android:focusable="false" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:layout_gravity="bottom|center" android:id="@id/manually_parameter_reset" android:visibility="gone" android:layout_width="@dimen/dlo" android:layout_height="@dimen/dlo" android:layout_marginTop="@dimen/djz" android:src="@drawable/ic_beauty_out_reset_new" android:scaleType="fitCenter" android:contentDescription="@string/hsy" />
+    </FrameLayout>
+</FrameLayout>

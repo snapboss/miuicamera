@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f8j">
+        <item quantity="other">1 soat oldin</item>
+        <item quantity="one">1 soat oldin</item>
+    </plurals>
+    <plurals name="f8k">
+        <item quantity="other">%d soat oldin</item>
+        <item quantity="one">%d soat oldin</item>
+    </plurals>
+    <plurals name="f8l">
+        <item quantity="other">Yarim soat oldin</item>
+        <item quantity="one">Yarim soat oldin</item>
+    </plurals>
+    <plurals name="f8m">
+        <item quantity="other">%d soatdan keyin</item>
+        <item quantity="one">%d soatdan keyin</item>
+    </plurals>
+    <plurals name="f8n">
+        <item quantity="other">Yarim soat ichida</item>
+        <item quantity="one">Yarim soat ichida</item>
+    </plurals>
+    <plurals name="f8o">
+        <item quantity="other">Darhol</item>
+        <item quantity="one">Darhol</item>
+    </plurals>
+    <plurals name="f8p">
+        <item quantity="other">%d daqiqadan keyin</item>
+        <item quantity="one">%d daqiqadan keyin</item>
+    </plurals>
+    <plurals name="f8q">
+        <item quantity="other">Hozirgina</item>
+        <item quantity="one">Hozirgina</item>
+    </plurals>
+    <plurals name="f8r">
+        <item quantity="other">%d daqiqa oldin</item>
+        <item quantity="one">%d daqiqa oldin</item>
+    </plurals>
+    <plurals name="f8s">
+        <item quantity="other">Tungi rejim uchun %d soniyali taymer</item>
+        <item quantity="one">Tungi rejim uchun %d soniyali taymer</item>
+    </plurals>
+    <plurals name="f8t">
+        <item quantity="other">Fokus qilindi. %d ta yuz aniqlandi</item>
+        <item quantity="one">Fokus qilindi. %d ta yuz aniqlandi</item>
+    </plurals>
+    <plurals name="f8u">
+        <item quantity="other">%d ta seriya rasmi</item>
+        <item quantity="one">%d ta seriya rasmi</item>
+    </plurals>
+    <plurals name="f8v">
+        <item quantity="other">Interval: %d soniya</item>
+        <item quantity="one">Interval: %d soniya</item>
+    </plurals>
+    <plurals name="f8w">
+        <item quantity="other">Davomiylik: %d soniya</item>
+        <item quantity="one">Davomiylik: %d soniya</item>
+    </plurals>
+    <plurals name="f8x">
+        <item quantity="other">%d belgi kiritildi.</item>
+        <item quantity="one">%d belgi kiritildi.</item>
+    </plurals>
+    <plurals name="f8y">
+        <item quantity="other">%d ta belgigacha kiriting.</item>
+        <item quantity="one">%d ta belgigacha kiriting.</item>
+    </plurals>
+    <plurals name="f8z">
+        <item quantity="other">Siz bitta tarmoqqa %d tagacha kamerani ulashingiz mumkin</item>
+        <item quantity="one">Siz bitta tarmoqqa %d tagacha kamerani ulashingiz mumkin</item>
+    </plurals>
+    <plurals name="f90">
+        <item quantity="other">Siz bitta tarmoqqa %d tagacha monitorni ulashingiz mumkin</item>
+        <item quantity="one">Siz bitta tarmoqqa %d tagacha monitorni ulashingiz mumkin</item>
+    </plurals>
+    <plurals name="f91">
+        <item quantity="other">Bir vaqtning o‘zida %d ta klonni yaratishingiz mumkin.</item>
+        <item quantity="one">Bir vaqtning o‘zida %d ta klonni yaratishingiz mumkin.</item>
+    </plurals>
+    <plurals name="f92">
+        <item quantity="other">&lt;Data>Kameraga bog‘lab bo‘lmadi.&lt;br>Ushbu ilova &lt;font color=#FFCE16>&lt;b>%1$d son ichida yopiladi&lt;/b>&lt;/font>. Undan so‘ng, birozdan so‘ng takrorlang.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Kameraga bog‘lab bo‘lmadi.&lt;br>Ushbu ilova &lt;font color=#FFCE16>&lt;b>%1$d son ichida yopiladi&lt;/b>&lt;/font>. Undan so‘ng, birozdan so‘ng takrorlang.&lt;/Data></item>
+    </plurals>
+    <plurals name="f93">
+        <item quantity="other">&lt;Data>Ushbu qurilma judo issue.&lt;br>Ushbu qurilma &lt;font color=#FFCE16>&lt;b>%1$d son ichida yopiladi&lt;/b>&lt;/font>. Joriy taraqqiyot avtomatik tarzda saqlandi.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ushbu qurilma judo issue.&lt;br>Ushbu qurilma &lt;font color=#FFCE16>&lt;b>%1$d son ichida yopiladi&lt;/b>&lt;/font>. Joriy taraqqiyot avtomatik tarzda saqlandi.&lt;/Data></item>
+    </plurals>
+    <plurals name="f94">
+        <item quantity="other">&lt;Data>Siz foydalanayotgan Kamera versiyasi qurilmangiz modeliga mos kelmaydi.&lt;br>Ilova &lt;font color=#FFCE16>&lt;b>%1$d &lt;/b>&lt;/font> sekundda yopiladi. Uninstall Camera updates and try again.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Siz foydalanayotgan kamera versiyasi qurilmangiz modeliga mos kelmaydi.&lt;br>Ilova &lt;font color=#FFCE16>&lt;b>%1$d &lt;/b>&lt;/font>sekunddan keyin yopiladi. Kamera yangilanishlarini o‘chirib tashlang va qayta urinib ko‘ring.&lt;/Data></item>
+    </plurals>
+    <plurals name="f97">
+        <item quantity="other">%1$d daq</item>
+        <item quantity="one">%1$d daq</item>
+    </plurals>
+    <plurals name="f98">
+        <item quantity="other">%1$d son</item>
+        <item quantity="one">%1$d son</item>
+    </plurals>
+    <plurals name="f99">
+        <item quantity="other">(%1$d secs) Taymer yoqilgan. Rasmlar ushbu qurilmaga o‘tkaziladi.</item>
+        <item quantity="one">(%1$d sec)Taymer yoqilgan. Rasmlar ushbu qurilmaga o‘tkaziladi.</item>
+    </plurals>
+    <plurals name="f9_">
+        <item quantity="other">Yarim soat oldin</item>
+        <item quantity="one">Yarim soat oldin</item>
+    </plurals>
+    <plurals name="f9a">
+        <item quantity="other">1 soat ichida</item>
+        <item quantity="one">1 soat ichida</item>
+    </plurals>
+    <plurals name="f9b">
+        <item quantity="other">Yarim soat ichida</item>
+        <item quantity="one">Yarim soat ichida</item>
+    </plurals>
+    <plurals name="f9c">
+        <item quantity="other">Darhol</item>
+        <item quantity="one">Darhol</item>
+    </plurals>
+    <plurals name="f9d">
+        <item quantity="other">%d daqiqa ichida</item>
+        <item quantity="one">1 daqiqa ichida</item>
+    </plurals>
+    <plurals name="f9e">
+        <item quantity="other">Hozirgina</item>
+        <item quantity="one">Hozirgina</item>
+    </plurals>
+    <plurals name="f9f">
+        <item quantity="other">%1$d ta qarolama o‘chirilsinmi?</item>
+        <item quantity="one">%1$d ta qarolama o‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="f9g">
+        <item quantity="other">"Oldindan o'rnatilgan %d tagacha qo'shing"</item>
+        <item quantity="one">"Oldindan oʻrnatilgan %d tagacha qo'shing"</item>
+    </plurals>
+    <plurals name="f9h">
+        <item quantity="other">%d ta element tanlandi</item>
+        <item quantity="one">%d ta element tanlandi</item>
+    </plurals>
+    <plurals name="f9k">
+        <item quantity="other">%d daqiqa oldin</item>
+        <item quantity="one">1 daqiqa oldin</item>
+    </plurals>
+    <plurals name="f9l">
+        <item quantity="other">%d son</item>
+        <item quantity="one">%d son</item>
+    </plurals>
+    <plurals name="f9m">
+        <item quantity="other">%1$s daq</item>
+        <item quantity="one">%1$s daq</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">%d soniya yozish</item>
+        <item quantity="one">%d soniya yozish</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">Faqat %d ta odamni videolarini muzlatishingiz mumkin.</item>
+        <item quantity="one">Faqat %d ta odamni videolarini muzlatishingiz mumkin.</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">%1$s ta rasm</item>
+        <item quantity="one">%1$s ta rasm</item>
+    </plurals>
+</resources>

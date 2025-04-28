@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dam">0.0dip</dimen>
+    <dimen name="dao">22.0dip</dimen>
+    <dimen name="dap">48.0dip</dimen>
+    <dimen name="dat">48.0dip</dimen>
+    <dimen name="dau">48.0dip</dimen>
+    <dimen name="db7">0.0dip</dimen>
+</resources>

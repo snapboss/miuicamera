@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingBottom="@dimen/cqv" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/cqy" android:textColor="@color/vv_dialog_message_color" android:id="@id/tv_wizard_no_wifi" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gev" android:layout_centerHorizontal="true" android:paddingStart="@dimen/cqz" android:paddingEnd="@dimen/cqz" />
+</RelativeLayout>
